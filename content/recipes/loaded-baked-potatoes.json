@@ -1,0 +1,85 @@
+{
+  "slug": "loaded-baked-potatoes",
+  "title": "Loaded Baked Potatoes",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Loaded baked potatoes with bacon, cheddar and sour cream — a simple, filling dinner or hearty side, ready in under an hour.",
+  "targetKeywords": [
+    "baked potato recipes",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H10M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "loaded baked potatoes, easy baked potato, bacon cheddar potatoes",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "14g",
+    "carbohydrateContent": "46g",
+    "fatContent": "16g"
+  },
+  "ingredients": [
+    "4 large russet potatoes",
+    "2 tbsp olive oil",
+    "Salt, for rubbing",
+    "6 slices bacon, cooked and crumbled",
+    "1.5 cups shredded cheddar cheese",
+    "1/2 cup sour cream",
+    "3 green onions, sliced",
+    "4 tbsp butter",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Bake the potatoes",
+      "text": "Preheat oven to 425°F (220°C). Scrub potatoes, pat dry, poke several times with a fork, and rub with olive oil and salt. Bake directly on the oven rack for 50-60 minutes until fork-tender."
+    },
+    {
+      "name": "Prep toppings",
+      "text": "While potatoes bake, cook bacon until crisp and crumble. Shred the cheese and slice the green onions."
+    },
+    {
+      "name": "Split and fluff",
+      "text": "Slice each potato open lengthwise, fluff the inside with a fork, and add a pat of butter to melt in."
+    },
+    {
+      "name": "Load and serve",
+      "text": "Top each potato with cheese, bacon, sour cream and green onions. Season with salt and pepper."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why poke holes in the potato before baking?",
+      "answer": "Potatoes release steam as they cook — without an escape route, pressure can build up inside and cause the potato to burst in the oven."
+    },
+    {
+      "question": "Can I microwave the potatoes instead to save time?",
+      "answer": "You can microwave for about 10-12 minutes to speed things up, then finish in a hot oven for 15-20 minutes to crisp the skin — oven-only gives the best skin texture, but the combo works if short on time."
+    },
+    {
+      "question": "Why bake directly on the rack instead of a pan?",
+      "answer": "Direct contact with the oven's hot air on all sides crisps the skin better than sitting on a flat pan, which traps steam on the bottom."
+    }
+  ],
+  "storyIntro": [
+    "A loaded baked potato is one of the simplest dinners there is, and also one of the most satisfying — crispy skin, fluffy interior, and toppings that turn it into a full meal.",
+    "The only real trick is patience: give the potato the full hour in a hot oven rather than rushing it."
+  ],
+  "storyNote": "Bake directly on the oven rack, not on a baking sheet — the hot air circulating on all sides is what crisps the skin, while a pan traps steam underneath and softens it.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Loaded baked potato topped with cheese, bacon and sour cream",
+    "textureAlt": "Close-up of loaded baked potato showing fluffy interior and toppings",
+    "pinAlt": "Overhead loaded baked potatoes with all the toppings"
+  }
+}

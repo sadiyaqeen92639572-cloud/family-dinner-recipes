@@ -1,0 +1,87 @@
+{
+  "slug": "chicken-burrito-bowl",
+  "title": "Chicken Burrito Bowl",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Chicken burrito bowl with cilantro lime rice, black beans and salsa — a customizable 30-minute dinner bowl.",
+  "targetKeywords": [
+    "chicken burrito bowl",
+    "burrito recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Mexican-American",
+  "keywords": "chicken burrito bowl, burrito bowl recipe, easy chicken dinner bowl",
+  "nutrition": {
+    "calories": "460",
+    "proteinContent": "34g",
+    "carbohydrateContent": "48g",
+    "fatContent": "14g"
+  },
+  "ingredients": [
+    "1.5 lbs boneless chicken breast, diced",
+    "2 tsp chili powder",
+    "1 tsp cumin",
+    "2 cups cooked rice",
+    "1/4 cup cilantro, chopped",
+    "1 lime, juiced",
+    "1 can (15 oz) black beans, drained and rinsed",
+    "1 cup corn kernels",
+    "1 cup salsa",
+    "1 avocado, sliced",
+    "Shredded cheese, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Season and cook the chicken",
+      "text": "Toss diced chicken with chili powder, cumin and a pinch of salt. Cook in an oiled skillet over medium-high heat for 7-8 minutes until browned through."
+    },
+    {
+      "name": "Make the rice",
+      "text": "Stir cilantro and lime juice into the cooked rice."
+    },
+    {
+      "name": "Warm the beans and corn",
+      "text": "Warm black beans and corn in a small saucepan or the microwave."
+    },
+    {
+      "name": "Assemble",
+      "text": "Divide cilantro lime rice among bowls. Top with chicken, black beans, corn, salsa, avocado and shredded cheese."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Can I meal prep this?",
+      "answer": "Yes — cook the chicken, rice and beans ahead and store separately in the fridge for up to 4 days. Assemble bowls fresh, adding avocado just before eating so it doesn't brown."
+    },
+    {
+      "question": "What other toppings work well?",
+      "answer": "Sour cream, pickled jalapeños, diced red onion and extra lime wedges all pair well without overcomplicating the bowl."
+    },
+    {
+      "question": "Can I use brown rice instead of white?",
+      "answer": "Yes — it takes longer to cook, so plan for that if making the rice fresh rather than using leftovers."
+    }
+  ],
+  "storyIntro": [
+    "A burrito bowl is really just a well-organized plate of the same ingredients that go into a burrito, minus the tortilla wrapping — and it comes together just as fast.",
+    "The cilantro lime rice is the one component worth not skipping; it's what ties the whole bowl together."
+  ],
+  "storyNote": "Add the avocado right before serving, not ahead of time — sliced avocado browns quickly once cut, so keep it as the very last step in assembly.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Chicken burrito bowl with rice, beans, corn and avocado",
+    "textureAlt": "Close-up of chicken burrito bowl showing seasoned chicken and toppings",
+    "pinAlt": "Overhead chicken burrito bowl with all the fixings"
+  }
+}

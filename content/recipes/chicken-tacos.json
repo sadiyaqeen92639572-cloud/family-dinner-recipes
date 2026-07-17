@@ -1,0 +1,86 @@
+{
+  "slug": "chicken-tacos",
+  "title": "Chicken Tacos",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Seasoned chicken tacos with a smoky spice blend — juicy shredded or diced chicken, ready for taco night in 30 minutes.",
+  "targetKeywords": [
+    "chicken tacos",
+    "taco recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings (8 tacos)",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Mexican-American",
+  "keywords": "chicken tacos, easy taco recipe, taco night dinner",
+  "nutrition": {
+    "calories": "320",
+    "proteinContent": "28g",
+    "carbohydrateContent": "24g",
+    "fatContent": "13g"
+  },
+  "ingredients": [
+    "1.5 lbs boneless chicken breast, diced",
+    "2 tsp chili powder",
+    "1 tsp cumin",
+    "1 tsp smoked paprika",
+    "1/2 tsp garlic powder",
+    "1/2 tsp onion powder",
+    "2 tbsp olive oil",
+    "8 small tortillas, warmed",
+    "Shredded lettuce, diced tomato, shredded cheese, sour cream, for serving",
+    "Lime wedges, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Season the chicken",
+      "text": "Toss diced chicken with chili powder, cumin, smoked paprika, garlic powder, onion powder and a pinch of salt."
+    },
+    {
+      "name": "Cook",
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add chicken in a single layer and cook 7-8 minutes, stirring occasionally, until browned and cooked through."
+    },
+    {
+      "name": "Assemble",
+      "text": "Divide chicken among warmed tortillas. Top with lettuce, tomato, cheese and sour cream."
+    },
+    {
+      "name": "Serve",
+      "text": "Serve with lime wedges for squeezing over the top."
+    }
+  ],
+  "tips": [
+    {
+      "question": "How do I warm tortillas without them cracking?",
+      "answer": "Warm them directly in a dry skillet for 20-30 seconds per side, or wrap a stack in foil and heat in a 300°F oven for 10 minutes — cold tortillas straight from the fridge are what crack when folded."
+    },
+    {
+      "question": "Can I use ground chicken instead of diced breast?",
+      "answer": "Yes — ground chicken cooks faster (about 5-6 minutes) and works well with the same seasoning blend, just break it apart as it browns."
+    },
+    {
+      "question": "Can I make the chicken ahead for meal prep?",
+      "answer": "Yes — the seasoned cooked chicken keeps in the fridge for up to 4 days, making it easy to assemble tacos fresh each night without recooking."
+    }
+  ],
+  "storyIntro": [
+    "Taco night doesn't need much beyond well-seasoned chicken and a hot pan — the spice blend here does the heavy lifting, so there's no marinating required.",
+    "Diced chicken cooks fast and browns well, giving good texture without the wait of a whole seasoned chicken breast."
+  ],
+  "storyNote": "Cook the chicken in a single layer without stirring too often — letting it sit in contact with the hot pan is what gives it browned edges instead of just steaming through.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Chicken tacos with lettuce, tomato and lime on a plate",
+    "textureAlt": "Close-up of chicken taco filling showing seasoned browned chicken",
+    "pinAlt": "Overhead chicken tacos with toppings and lime wedges"
+  }
+}

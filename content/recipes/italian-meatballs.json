@@ -1,0 +1,87 @@
+{
+  "slug": "italian-meatballs",
+  "title": "Italian Meatballs",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Classic Italian meatballs simmered in marinara — tender, flavorful, perfect over pasta or in a sub.",
+  "targetKeywords": [
+    "italian meatballs",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "6 servings (24 meatballs)",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Italian-American",
+  "keywords": "italian meatballs, homemade meatballs, meatballs in marinara",
+  "nutrition": {
+    "calories": "320",
+    "proteinContent": "22g",
+    "carbohydrateContent": "12g",
+    "fatContent": "20g"
+  },
+  "ingredients": [
+    "1 lb ground beef",
+    "1/2 lb ground pork",
+    "3/4 cup breadcrumbs",
+    "1/2 cup grated parmesan",
+    "2 eggs",
+    "1/4 cup fresh parsley, chopped",
+    "3 cloves garlic, minced",
+    "1/2 tsp dried oregano",
+    "Salt and pepper, to taste",
+    "2 tbsp olive oil",
+    "4 cups marinara sauce"
+  ],
+  "steps": [
+    {
+      "name": "Mix the meatballs",
+      "text": "In a large bowl, combine ground beef, ground pork, breadcrumbs, parmesan, eggs, parsley, garlic, oregano, salt and pepper. Mix gently until just combined."
+    },
+    {
+      "name": "Shape",
+      "text": "Roll the mixture into 24 meatballs, about 1.5 inches each."
+    },
+    {
+      "name": "Sear",
+      "text": "Heat olive oil in a large skillet over medium-high heat. Sear meatballs in batches for 2-3 minutes per side until browned (they don't need to be cooked through yet)."
+    },
+    {
+      "name": "Simmer in sauce",
+      "text": "Add marinara sauce to the skillet, nestle the meatballs back in, and simmer covered for 15-20 minutes until meatballs reach 160°F (71°C) and the sauce has thickened slightly."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why use a mix of beef and pork?",
+      "answer": "Pork adds fat and a slightly sweeter flavor that beef alone doesn't have — the combination is the classic Italian-American ratio for a juicier, more flavorful meatball."
+    },
+    {
+      "question": "Why sear before simmering in sauce?",
+      "answer": "Searing builds a browned crust and locks in some structure before the meatballs finish cooking gently in the sauce — skipping straight to simmering in liquid gives a softer, less developed flavor."
+    },
+    {
+      "question": "Can I freeze these?",
+      "answer": "Yes — freeze the seared (or fully cooked) meatballs in a single layer, then transfer to a bag. They reheat well directly in simmering sauce from frozen."
+    }
+  ],
+  "storyIntro": [
+    "A good meatball recipe is worth having on hand — over spaghetti, stuffed in a sub roll, or simmered as an appetizer, it covers a lot of ground.",
+    "Searing first before finishing in the sauce is what separates a meatball with real texture from one that's just boiled and mushy."
+  ],
+  "storyNote": "Sear the meatballs until browned but not fully cooked through — they finish cooking in the simmering sauce, which also keeps them from drying out.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Italian meatballs simmering in marinara sauce",
+    "textureAlt": "Close-up of Italian meatball cut open showing tender interior",
+    "pinAlt": "Overhead skillet of Italian meatballs in marinara with basil"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "chicken-stir-fry",
+  "title": "Chicken Stir Fry",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Quick chicken stir fry with crisp vegetables in a savory garlic sauce — faster than takeout, ready in 25 minutes.",
+  "targetKeywords": [
+    "chicken stir fry",
+    "chicken recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Asian-inspired",
+  "keywords": "chicken stir fry, easy stir fry recipe, weeknight chicken dinner",
+  "nutrition": {
+    "calories": "310",
+    "proteinContent": "30g",
+    "carbohydrateContent": "20g",
+    "fatContent": "12g"
+  },
+  "ingredients": [
+    "1.5 lbs boneless chicken breast, sliced thin",
+    "2 cups broccoli florets",
+    "1 red bell pepper, sliced",
+    "1 carrot, sliced thin",
+    "3 tbsp soy sauce",
+    "1 tbsp oyster sauce",
+    "1 tbsp cornstarch",
+    "1 tbsp honey",
+    "2 cloves garlic, minced",
+    "1 tsp fresh ginger, minced",
+    "2 tbsp vegetable oil",
+    "Cooked rice, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Make the sauce",
+      "text": "Whisk together soy sauce, oyster sauce, cornstarch and honey in a small bowl. Set aside."
+    },
+    {
+      "name": "Sear the chicken",
+      "text": "Heat 1 tbsp oil in a large skillet or wok over high heat. Add chicken in a single layer and sear 4-5 minutes until golden and cooked through. Remove and set aside."
+    },
+    {
+      "name": "Stir fry the vegetables",
+      "text": "Add remaining oil, garlic and ginger, cook 30 seconds. Add broccoli, bell pepper and carrot, stir frying for 4-5 minutes until crisp-tender."
+    },
+    {
+      "name": "Combine and serve",
+      "text": "Return chicken to the pan, pour in the sauce, and toss for 1-2 minutes until it thickens and coats everything. Serve over rice."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does restaurant stir fry taste different from mine?",
+      "answer": "Restaurant woks reach much higher heat than a home stove — get your pan as hot as possible before adding anything, and don't overcrowd it, which drops the temperature and steams the food instead of searing it."
+    },
+    {
+      "question": "Can I use frozen vegetables?",
+      "answer": "Fresh vegetables give a crisper texture, but frozen works in a pinch — thaw and pat dry first, since extra moisture will thin out the sauce."
+    },
+    {
+      "question": "How do I keep the chicken tender?",
+      "answer": "Slice it thin and against the grain, and don't overcook it during the initial sear — it finishes cooking slightly when tossed back in with the sauce."
+    }
+  ],
+  "storyIntro": [
+    "Stir fry is one of the fastest genuinely good dinners you can make at home, provided the pan is hot enough — that's the one variable that makes or breaks it.",
+    "Searing the chicken and vegetables separately before combining keeps everything from steaming into a soggy mess."
+  ],
+  "storyNote": "Get the pan smoking hot before anything goes in — a stir fry cooked at moderate heat steams instead of sears, and that's the biggest difference between homemade and restaurant results.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Chicken stir fry with broccoli and bell peppers in a glossy sauce",
+    "textureAlt": "Close-up of chicken stir fry showing sauce coating chicken and vegetables",
+    "pinAlt": "Overhead chicken stir fry served over rice"
+  }
+}

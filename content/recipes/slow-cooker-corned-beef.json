@@ -1,0 +1,87 @@
+{
+  "slug": "slow-cooker-corned-beef",
+  "title": "Slow Cooker Corned Beef",
+  "hubPath": "crockpot",
+  "hubLabel": "Crockpot",
+  "metaDescription": "Slow cooker corned beef with cabbage, carrots and potatoes — fork-tender after 8 hours with almost no hands-on work.",
+  "targetKeywords": [
+    "slow cooker corned beef",
+    "crockpot recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT15M",
+  "cookTime": "PT8H",
+  "totalTime": "PT8H15M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Crockpot",
+  "recipeCuisine": "Irish-American",
+  "keywords": "slow cooker corned beef, crockpot corned beef and cabbage, easy corned beef",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "28g",
+    "carbohydrateContent": "20g",
+    "fatContent": "22g"
+  },
+  "ingredients": [
+    "3 lb corned beef brisket with spice packet",
+    "4 carrots, cut into chunks",
+    "4 potatoes, quartered",
+    "1 onion, quartered",
+    "3 cups beef broth or water",
+    "1 head cabbage, cut into wedges",
+    "2 bay leaves"
+  ],
+  "steps": [
+    {
+      "name": "Load the crockpot",
+      "text": "Place carrots, potatoes and onion in the bottom of the crockpot. Set the corned beef brisket on top, fat-side up, and sprinkle with the included spice packet."
+    },
+    {
+      "name": "Add liquid",
+      "text": "Pour in beef broth or water until it comes about halfway up the sides of the meat. Add bay leaves."
+    },
+    {
+      "name": "Cook",
+      "text": "Cover and cook on low for 7 hours."
+    },
+    {
+      "name": "Add cabbage",
+      "text": "Nestle the cabbage wedges into the liquid around the meat. Cover and cook 1 more hour until the beef is fork-tender and cabbage is soft."
+    },
+    {
+      "name": "Slice and serve",
+      "text": "Remove the beef and let rest 10 minutes, then slice against the grain. Serve with the vegetables and cabbage."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why add the cabbage later instead of at the start?",
+      "answer": "Cabbage cooks much faster than the tougher root vegetables and the brisket — adding it for just the last hour keeps it tender instead of turning to mush over the full 8-hour cook."
+    },
+    {
+      "question": "Why slice against the grain?",
+      "answer": "Corned beef brisket has long muscle fibers — slicing across them shortens the fibers and makes each bite noticeably more tender than slicing with the grain."
+    },
+    {
+      "question": "Can I use the spice packet if it seems small for the size of the meat?",
+      "answer": "Yes — the packets are portioned for the brisket they come with regardless of size; it's meant to season the cooking liquid, not coat the meat directly."
+    }
+  ],
+  "storyIntro": [
+    "Corned beef rewards the same low-and-slow patience as a good pot roast — the crockpot breaks down the tough brisket into something that shreds apart with a fork.",
+    "Adding the cabbage only for the last hour is the one timing detail that keeps it from turning into mush by serving time."
+  ],
+  "storyNote": "Hold the cabbage back until the final hour of cooking — added at the start alongside the tougher vegetables, it turns completely mushy well before the meat is done.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Sliced corned beef with cabbage, carrots and potatoes",
+    "textureAlt": "Close-up of sliced corned beef showing tender texture",
+    "pinAlt": "Overhead plate of corned beef and cabbage dinner"
+  }
+}

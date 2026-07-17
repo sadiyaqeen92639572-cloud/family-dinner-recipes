@@ -1,0 +1,91 @@
+{
+  "slug": "classic-lasagna",
+  "title": "Classic Lasagna",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Classic beef lasagna with layers of meat sauce, ricotta and melted mozzarella — the ultimate baked pasta comfort dinner.",
+  "targetKeywords": [
+    "lasagna recipes",
+    "classic lasagna"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT30M",
+  "cookTime": "PT50M",
+  "totalTime": "PT1H20M",
+  "recipeYield": "8 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Italian-American",
+  "keywords": "classic lasagna, homemade lasagna, beef lasagna recipe",
+  "nutrition": {
+    "calories": "460",
+    "proteinContent": "28g",
+    "carbohydrateContent": "36g",
+    "fatContent": "24g"
+  },
+  "ingredients": [
+    "1 lb ground beef",
+    "1 onion, diced",
+    "3 cloves garlic, minced",
+    "1 jar (24 oz) marinara sauce",
+    "12 lasagna noodles",
+    "15 oz ricotta cheese",
+    "1 egg",
+    "1/4 cup fresh parsley, chopped",
+    "3 cups shredded mozzarella",
+    "1/2 cup grated parmesan",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Make the meat sauce",
+      "text": "Brown the ground beef with onion and garlic, about 7 minutes. Drain fat, stir in marinara sauce, and simmer 10 minutes."
+    },
+    {
+      "name": "Cook the noodles",
+      "text": "Cook lasagna noodles according to package directions until al dente. Drain and lay flat to prevent sticking."
+    },
+    {
+      "name": "Mix the ricotta filling",
+      "text": "Combine ricotta, egg, parsley, salt and pepper in a bowl."
+    },
+    {
+      "name": "Layer",
+      "text": "Preheat oven to 375°F (190°C). In a 9x13-inch dish, layer meat sauce, noodles, ricotta mixture and mozzarella, repeating for 3 layers. Top with remaining mozzarella and parmesan."
+    },
+    {
+      "name": "Bake",
+      "text": "Cover with foil and bake for 30 minutes, then uncover and bake 15-20 more minutes until bubbly and golden. Rest 10-15 minutes before slicing."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does my lasagna fall apart when sliced?",
+      "answer": "Cutting it too soon is the most common cause — lasagna needs 10-15 minutes to rest after baking so the layers set enough to hold together when sliced."
+    },
+    {
+      "question": "Do I need to pre-cook the noodles if using regular ones?",
+      "answer": "Regular lasagna noodles should be cooked to al dente first — oven-ready/no-boil noodles skip this step but need extra sauce moisture to soften properly while baking."
+    },
+    {
+      "question": "Can I assemble this ahead and bake later?",
+      "answer": "Yes — assemble fully, cover, and refrigerate up to 24 hours. Add about 10-15 extra minutes to the covered bake time if going in cold."
+    }
+  ],
+  "storyIntro": [
+    "Lasagna has a reputation as a weekend project, and the layering does take some time, but nothing about it is actually difficult — it's just assembly.",
+    "The one rule worth following closely: let it rest before cutting, or the first slice will collapse into a puddle of sauce."
+  ],
+  "storyNote": "Let the lasagna rest for a full 10-15 minutes after baking before cutting — this is what allows the layers to set and hold their shape instead of sliding apart on the plate.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Slice of classic lasagna showing layers of meat sauce and cheese",
+    "textureAlt": "Close-up of lasagna layers showing ricotta and melted mozzarella",
+    "pinAlt": "Overhead baking dish of classic lasagna fresh from the oven"
+  }
+}

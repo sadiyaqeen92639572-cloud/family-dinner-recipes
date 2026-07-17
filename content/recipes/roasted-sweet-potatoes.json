@@ -1,0 +1,83 @@
+{
+  "slug": "roasted-sweet-potatoes",
+  "title": "Roasted Sweet Potatoes",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Roasted sweet potatoes with crispy caramelized edges — a simple 30-minute side dish with just olive oil and salt.",
+  "targetKeywords": [
+    "roasted sweet potatoes",
+    "sweet potato recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "roasted sweet potatoes, crispy sweet potatoes, easy side dish",
+  "nutrition": {
+    "calories": "160",
+    "proteinContent": "2g",
+    "carbohydrateContent": "28g",
+    "fatContent": "5g"
+  },
+  "ingredients": [
+    "3 large sweet potatoes, cubed",
+    "3 tbsp olive oil",
+    "1 tsp garlic powder",
+    "1/2 tsp smoked paprika",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "Fresh thyme or parsley, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Prep",
+      "text": "Preheat oven to 425°F (220°C). Cube the sweet potatoes into even 3/4-inch pieces."
+    },
+    {
+      "name": "Season",
+      "text": "Toss cubed sweet potatoes with olive oil, garlic powder, smoked paprika, salt and pepper until evenly coated."
+    },
+    {
+      "name": "Roast",
+      "text": "Spread in a single layer on a baking sheet, leaving space between pieces. Roast for 25-30 minutes, flipping halfway, until edges are caramelized and centers are tender."
+    },
+    {
+      "name": "Serve",
+      "text": "Garnish with fresh thyme or parsley before serving."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why aren't my sweet potatoes getting crispy?",
+      "answer": "Overcrowding the pan is the most common cause — pieces need space to roast rather than steam. Use two pans if needed rather than piling everything onto one."
+    },
+    {
+      "question": "Should I peel the sweet potatoes?",
+      "answer": "It's optional — the skin is edible and gets crisp in the oven, but peel first if you prefer a smoother texture or the potatoes have blemishes."
+    },
+    {
+      "question": "Why cut the pieces evenly?",
+      "answer": "Uneven sizes cook at different rates — some pieces finish tender while others are still firm, so aim for consistent 3/4-inch cubes across the batch."
+    }
+  ],
+  "storyIntro": [
+    "Roasted sweet potatoes are as simple as a recipe gets, but the difference between good and great comes down to two things: even cutting and not crowding the pan.",
+    "High heat is what gives the caramelized, slightly crispy edges that make plain roasted vegetables actually craveable."
+  ],
+  "storyNote": "Give the potatoes real space on the pan — overcrowding is the single biggest reason roasted vegetables come out steamed and soft instead of caramelized and crisp at the edges.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Roasted sweet potato cubes with caramelized edges on a sheet pan",
+    "textureAlt": "Close-up of roasted sweet potatoes showing crispy caramelized edges",
+    "pinAlt": "Overhead sheet pan of roasted sweet potatoes with herbs"
+  }
+}

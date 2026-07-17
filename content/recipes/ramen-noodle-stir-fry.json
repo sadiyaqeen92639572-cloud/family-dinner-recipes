@@ -1,0 +1,86 @@
+{
+  "slug": "ramen-noodle-stir-fry",
+  "title": "Ramen Noodle Stir Fry",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Ramen noodle stir fry with chicken and vegetables in a savory sauce — a budget-friendly 20-minute dinner using instant ramen.",
+  "targetKeywords": [
+    "ramen noodle recipes",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Asian-inspired",
+  "keywords": "ramen noodle stir fry, instant ramen recipe, quick noodle dinner",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "22g",
+    "carbohydrateContent": "42g",
+    "fatContent": "14g"
+  },
+  "ingredients": [
+    "3 packs instant ramen noodles (seasoning packets discarded)",
+    "1 lb boneless chicken breast, sliced thin",
+    "2 cups mixed vegetables (broccoli, carrots, snap peas)",
+    "3 tbsp soy sauce",
+    "1 tbsp sesame oil",
+    "1 tbsp brown sugar",
+    "2 cloves garlic, minced",
+    "1 tsp fresh ginger, minced",
+    "2 tbsp vegetable oil",
+    "Sesame seeds and green onion, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Cook the noodles",
+      "text": "Boil the ramen noodles for 2-3 minutes until just tender (discard the seasoning packets). Drain and set aside."
+    },
+    {
+      "name": "Make the sauce",
+      "text": "Whisk together soy sauce, sesame oil, brown sugar, garlic and ginger."
+    },
+    {
+      "name": "Cook the chicken and vegetables",
+      "text": "Heat vegetable oil in a large skillet or wok over high heat. Cook chicken 4-5 minutes until golden. Add vegetables and stir fry 3-4 minutes until crisp-tender."
+    },
+    {
+      "name": "Combine",
+      "text": "Add the cooked noodles and sauce to the skillet, tossing everything together for 1-2 minutes until well coated. Top with sesame seeds and green onion."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why discard the seasoning packets?",
+      "answer": "The packets are mostly salt and MSG-heavy flavoring meant for instant soup — this recipe builds its own sauce, and using both would make the dish overpoweringly salty."
+    },
+    {
+      "question": "How do I keep the noodles from clumping?",
+      "answer": "Don't overcook them past the 2-3 minute mark, and toss them with a little oil after draining if they'll sit for more than a minute before going into the stir fry."
+    },
+    {
+      "question": "Can I use other noodles instead of ramen?",
+      "answer": "Yes — udon or lo mein noodles work as a direct swap if you have them, though ramen is usually the most budget-friendly and easiest to find."
+    }
+  ],
+  "storyIntro": [
+    "Instant ramen gets a bad reputation for being a dorm-room shortcut, but the noodles themselves are genuinely good once you ditch the seasoning packet and build a real sauce.",
+    "This turns a $0.30 pack of noodles into an actual dinner with protein and vegetables in under 20 minutes."
+  ],
+  "storyNote": "Skip the seasoning packets entirely — they're built for instant soup, not a stir fry sauce, and using them on top of the soy-sesame sauce here makes the dish inedibly salty.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Ramen noodle stir fry with chicken and vegetables",
+    "textureAlt": "Close-up of ramen noodles coated in glossy stir fry sauce",
+    "pinAlt": "Overhead bowl of ramen noodle stir fry with sesame garnish"
+  }
+}

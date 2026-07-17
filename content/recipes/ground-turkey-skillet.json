@@ -1,0 +1,82 @@
+{
+  "slug": "ground-turkey-skillet",
+  "title": "Ground Turkey Skillet",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "One-pan ground turkey skillet with vegetables and a savory seasoning blend — a lean, filling dinner in 25 minutes.",
+  "targetKeywords": [
+    "ground turkey recipes",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "ground turkey skillet, easy ground turkey recipe, one pan turkey dinner",
+  "nutrition": {
+    "calories": "290",
+    "proteinContent": "28g",
+    "carbohydrateContent": "18g",
+    "fatContent": "12g"
+  },
+  "ingredients": [
+    "1.5 lbs ground turkey",
+    "1 zucchini, diced",
+    "1 bell pepper, diced",
+    "1 onion, diced",
+    "2 cloves garlic, minced",
+    "1 tsp Italian seasoning",
+    "1/2 tsp smoked paprika",
+    "2 tbsp olive oil",
+    "1/2 cup shredded parmesan",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Brown the turkey",
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add ground turkey, breaking it apart, and cook 6-7 minutes until browned."
+    },
+    {
+      "name": "Add vegetables",
+      "text": "Add onion, bell pepper and garlic. Cook 4-5 minutes until softened."
+    },
+    {
+      "name": "Finish",
+      "text": "Add zucchini, Italian seasoning, smoked paprika, salt and pepper. Cook 4-5 minutes more until zucchini is tender. Top with parmesan before serving."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does ground turkey sometimes taste dry compared to beef?",
+      "answer": "Turkey is leaner with less fat to keep it moist — don't overcook it past the point of browning, and season generously since it carries less inherent flavor than beef."
+    },
+    {
+      "question": "Can I add rice or quinoa to make this a full bowl meal?",
+      "answer": "Yes — stir in 2 cups of cooked rice or quinoa at the end and toss to combine, adding a splash of broth if it looks dry."
+    },
+    {
+      "question": "What other vegetables work well here?",
+      "answer": "Mushrooms, spinach or diced tomatoes all work well added at the same stage as the zucchini."
+    }
+  ],
+  "storyIntro": [
+    "This is the dinner for using up whatever vegetables are sitting in the fridge — ground turkey browns fast, and the vegetables cook down in the same pan.",
+    "It's lean without tasting like a diet compromise, mostly because the seasoning does real work."
+  ],
+  "storyNote": "Season generously — ground turkey is milder than beef, and skimping on the Italian seasoning and paprika is the most common reason turkey dishes taste flat.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Ground turkey skillet with zucchini and bell peppers",
+    "textureAlt": "Close-up of ground turkey skillet showing browned turkey and vegetables",
+    "pinAlt": "Overhead ground turkey skillet topped with parmesan"
+  }
+}

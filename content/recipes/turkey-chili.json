@@ -1,0 +1,87 @@
+{
+  "slug": "turkey-chili",
+  "title": "Turkey Chili",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Lean turkey chili with beans and a rich tomato base — all the comfort of classic chili, lighter on the fat.",
+  "targetKeywords": [
+    "turkey chili",
+    "chili recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "turkey chili, ground turkey chili, healthy chili recipe",
+  "nutrition": {
+    "calories": "300",
+    "proteinContent": "26g",
+    "carbohydrateContent": "28g",
+    "fatContent": "10g"
+  },
+  "ingredients": [
+    "1.5 lbs ground turkey",
+    "1 onion, diced",
+    "1 bell pepper, diced",
+    "2 cloves garlic, minced",
+    "2 cans (15 oz each) kidney or black beans, drained",
+    "1 can (28 oz) crushed tomatoes",
+    "2 tbsp chili powder",
+    "1 tbsp cumin",
+    "1 tsp smoked paprika",
+    "Salt and pepper, to taste",
+    "Shredded cheese and sour cream, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Brown the turkey",
+      "text": "Heat a large pot over medium-high heat. Brown the ground turkey with onion, bell pepper and garlic, about 7-8 minutes, breaking it apart as it cooks."
+    },
+    {
+      "name": "Add remaining ingredients",
+      "text": "Stir in beans, crushed tomatoes, chili powder, cumin, smoked paprika, salt and pepper."
+    },
+    {
+      "name": "Simmer",
+      "text": "Bring to a simmer, then reduce heat and cook uncovered for 25-30 minutes, stirring occasionally, until thickened."
+    },
+    {
+      "name": "Serve",
+      "text": "Ladle into bowls and top with cheese and sour cream."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does turkey chili sometimes taste bland compared to beef chili?",
+      "answer": "Ground turkey is leaner and has less inherent flavor than beef, so it depends more on the spice quantity — don't be shy with the chili powder and cumin, and taste and adjust before serving."
+    },
+    {
+      "question": "How do I keep ground turkey from drying out in chili?",
+      "answer": "Simmering it in the tomato-based liquid rather than browning it dry and separate keeps it moist — it cooks gently in the sauce rather than on high direct heat the whole time."
+    },
+    {
+      "question": "Can I make this in a slow cooker?",
+      "answer": "Yes — brown the turkey first for flavor, then transfer everything to a slow cooker and cook on low for 6 hours or high for 3."
+    }
+  ],
+  "storyIntro": [
+    "Turkey chili proves you don't need beef fat to get a satisfying bowl of chili — it just needs a heavier hand with the spices to make up for turkey's milder flavor.",
+    "The long simmer is what lets the tomato base thicken and the flavors deepen, so don't rush that part."
+  ],
+  "storyNote": "Taste and adjust the seasoning near the end of simmering, not just at the start — ground turkey needs more chili powder and cumin than beef to reach the same depth of flavor.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of turkey chili topped with cheese and sour cream",
+    "textureAlt": "Close-up of turkey chili showing beans and ground turkey texture",
+    "pinAlt": "Overhead bowl of turkey chili with toppings"
+  }
+}

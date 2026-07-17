@@ -1,0 +1,84 @@
+{
+  "slug": "crustless-quiche",
+  "title": "Crustless Quiche",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Crustless quiche with spinach, cheese and bacon — a low-carb breakfast-for-dinner that bakes in one dish, no crust needed.",
+  "targetKeywords": [
+    "crustless quiche",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT35M",
+  "totalTime": "PT45M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "French-American",
+  "keywords": "crustless quiche, low carb quiche, easy egg bake",
+  "nutrition": {
+    "calories": "260",
+    "proteinContent": "17g",
+    "carbohydrateContent": "4g",
+    "fatContent": "19g"
+  },
+  "ingredients": [
+    "8 large eggs",
+    "1 cup half-and-half",
+    "2 cups fresh spinach, chopped",
+    "1 cup shredded cheddar or Swiss cheese",
+    "4 slices bacon, cooked and crumbled",
+    "1/4 cup diced onion",
+    "Salt and pepper, to taste",
+    "1/4 tsp nutmeg (optional)"
+  ],
+  "steps": [
+    {
+      "name": "Prep",
+      "text": "Preheat oven to 350°F (175°C). Grease a 9-inch pie dish or baking dish."
+    },
+    {
+      "name": "Whisk the base",
+      "text": "In a large bowl, whisk together eggs, half-and-half, salt, pepper and nutmeg until smooth."
+    },
+    {
+      "name": "Layer and pour",
+      "text": "Scatter spinach, cheese, bacon and onion evenly in the prepared dish. Pour the egg mixture over the top."
+    },
+    {
+      "name": "Bake",
+      "text": "Bake for 30-35 minutes, until the center is just set and no longer jiggles when the dish is gently shaken. Let rest 10 minutes before slicing."
+    }
+  ],
+  "tips": [
+    {
+      "question": "How do I know when the quiche is done without a crust to guide me?",
+      "answer": "The center should be set with only the faintest jiggle, similar to a firm custard — a toothpick inserted in the middle should come out mostly clean."
+    },
+    {
+      "question": "Why let it rest before slicing?",
+      "answer": "Like any egg bake, it continues to set as it cools — cutting into it immediately can cause it to look underdone and fall apart, even when it's actually fully cooked."
+    },
+    {
+      "question": "Can I swap the fillings?",
+      "answer": "Yes — this base recipe works with almost any cooked vegetable or meat combination, just keep the total volume of add-ins similar so the egg-to-filling ratio stays balanced."
+    }
+  ],
+  "storyIntro": [
+    "Skipping the crust turns quiche from a weekend baking project into a genuine weeknight dinner — whisk, layer, pour, bake.",
+    "It also means no soggy-bottom crust problem to troubleshoot, and the whole thing reheats well for lunch the next day."
+  ],
+  "storyNote": "Check for doneness with a gentle shake of the dish, not a knife — the center should have only a slight jiggle, since it firms up further as it rests.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Crustless quiche with spinach and bacon sliced on a plate",
+    "textureAlt": "Close-up of crustless quiche showing set egg custard texture",
+    "pinAlt": "Overhead crustless quiche fresh from the oven"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "hamburger-casserole",
+  "title": "Hamburger Casserole",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Cheesy hamburger casserole with pasta and ground beef — a filling one-dish family dinner ready in 45 minutes.",
+  "targetKeywords": [
+    "hamburger casserole",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "hamburger casserole, ground beef pasta bake, family dinner casserole",
+  "nutrition": {
+    "calories": "440",
+    "proteinContent": "26g",
+    "carbohydrateContent": "38g",
+    "fatContent": "20g"
+  },
+  "ingredients": [
+    "1.5 lbs ground beef",
+    "1 onion, diced",
+    "2 cloves garlic, minced",
+    "1 can (14.5 oz) diced tomatoes",
+    "2 cups beef broth",
+    "2 cups egg noodles, uncooked",
+    "1 tsp Italian seasoning",
+    "1.5 cups shredded cheddar cheese",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Brown the beef",
+      "text": "Preheat oven to 375°F (190°C). In an oven-safe skillet, brown the ground beef with onion and garlic over medium-high heat, about 7 minutes. Drain excess fat."
+    },
+    {
+      "name": "Simmer with noodles",
+      "text": "Stir in diced tomatoes, beef broth, uncooked egg noodles and Italian seasoning. Bring to a simmer, cover, and cook for 10-12 minutes until noodles are tender."
+    },
+    {
+      "name": "Add cheese and bake",
+      "text": "Season with salt and pepper, top with shredded cheddar, and transfer to the oven for 10 minutes until the cheese is melted and bubbly."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Do I need to cook the noodles separately first?",
+      "answer": "No — they cook directly in the broth and tomato mixture, which is what makes this a one-dish meal. Just make sure there's enough liquid to cover them while they simmer."
+    },
+    {
+      "question": "No oven-safe skillet — what do I do?",
+      "answer": "Brown the beef in a regular skillet, then transfer everything to a baking dish before adding the cheese and baking."
+    },
+    {
+      "question": "Can I make this ahead?",
+      "answer": "It reheats well but the noodles soften further — for best texture, assemble through the simmer step and add cheese right before baking if prepping ahead."
+    }
+  ],
+  "storyIntro": [
+    "This is the one-pan dinner that uses pantry staples most people already have — ground beef, noodles, canned tomatoes — and turns them into something the whole family actually asks for again.",
+    "Cooking the noodles directly in the broth means one less pot and a thicker, more flavorful sauce."
+  ],
+  "storyNote": "Keep an eye on the noodles while they simmer — different brands absorb liquid at different rates, so check for tenderness starting at the 10-minute mark rather than trusting the clock alone.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Cheesy hamburger casserole with egg noodles in a baking dish",
+    "textureAlt": "Close-up of hamburger casserole showing melted cheese and noodles",
+    "pinAlt": "Overhead hamburger casserole fresh from the oven"
+  }
+}

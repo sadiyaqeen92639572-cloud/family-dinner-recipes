@@ -1,0 +1,88 @@
+{
+  "slug": "easy-meatloaf",
+  "title": "Easy Meatloaf",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Classic easy meatloaf with a tangy glaze — moist, never dry, a true comfort food dinner.",
+  "targetKeywords": [
+    "meatloaf",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT15M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H15M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "easy meatloaf, classic meatloaf recipe, meatloaf with glaze",
+  "nutrition": {
+    "calories": "360",
+    "proteinContent": "26g",
+    "carbohydrateContent": "18g",
+    "fatContent": "20g"
+  },
+  "ingredients": [
+    "2 lbs ground beef",
+    "1 cup breadcrumbs",
+    "1/2 cup milk",
+    "2 eggs",
+    "1 small onion, finely diced",
+    "2 cloves garlic, minced",
+    "2 tbsp Worcestershire sauce",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 cup ketchup",
+    "2 tbsp brown sugar",
+    "1 tbsp apple cider vinegar"
+  ],
+  "steps": [
+    {
+      "name": "Soak the breadcrumbs",
+      "text": "Preheat oven to 350°F (175°C). Combine breadcrumbs and milk in a large bowl, let sit 5 minutes to soften."
+    },
+    {
+      "name": "Mix the meatloaf",
+      "text": "Add ground beef, eggs, onion, garlic, Worcestershire sauce, salt and pepper to the breadcrumb mixture. Mix gently with your hands until just combined — don't overwork it."
+    },
+    {
+      "name": "Shape and glaze",
+      "text": "Shape into a loaf on a lined baking sheet or press into a loaf pan. Whisk together ketchup, brown sugar and vinegar, and spread half over the top."
+    },
+    {
+      "name": "Bake",
+      "text": "Bake for 45 minutes, brush with remaining glaze, then bake 15 more minutes until internal temperature reaches 160°F (71°C). Rest 10 minutes before slicing."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does my meatloaf fall apart when sliced?",
+      "answer": "Not enough binder (egg/breadcrumbs) or slicing before it rests — meatloaf needs 10 minutes to firm up after baking, same as a roast, before it holds together when cut."
+    },
+    {
+      "question": "Why not overmix the meat mixture?",
+      "answer": "Overmixing compacts the meat proteins too tightly, which makes the finished meatloaf dense and tough instead of tender — mix just until the ingredients are combined."
+    },
+    {
+      "question": "Can I make this ahead?",
+      "answer": "Yes — shape the loaf and refrigerate, unbaked, up to 24 hours ahead. Add about 5-10 extra minutes to the bake time if going in cold from the fridge."
+    }
+  ],
+  "storyIntro": [
+    "Meatloaf gets dismissed as boring, but a good one — moist inside, with a tangy glaze that caramelizes on top — is genuine comfort food.",
+    "The trick is restraint: don't overmix the meat, and let it rest before slicing so it doesn't fall apart."
+  ],
+  "storyNote": "Mix the meat mixture gently and only until combined — overworking it with your hands compacts the proteins and makes the loaf dense instead of tender.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Sliced meatloaf with glossy ketchup glaze on a platter",
+    "textureAlt": "Close-up of meatloaf slice showing moist interior texture",
+    "pinAlt": "Overhead glazed meatloaf fresh from the oven"
+  }
+}

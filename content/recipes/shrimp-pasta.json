@@ -1,0 +1,86 @@
+{
+  "slug": "shrimp-pasta",
+  "title": "Shrimp Pasta",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Garlic butter shrimp pasta with a light white wine sauce — restaurant-quality in 25 minutes.",
+  "targetKeywords": [
+    "shrimp pasta",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Italian-American",
+  "keywords": "shrimp pasta, garlic butter shrimp, easy shrimp dinner",
+  "nutrition": {
+    "calories": "480",
+    "proteinContent": "28g",
+    "carbohydrateContent": "52g",
+    "fatContent": "16g"
+  },
+  "ingredients": [
+    "12 oz linguine",
+    "1.5 lbs large shrimp, peeled and deveined",
+    "4 tbsp butter",
+    "4 cloves garlic, minced",
+    "1/2 cup dry white wine (or chicken broth)",
+    "1/4 cup fresh parsley, chopped",
+    "1/2 tsp red pepper flakes",
+    "Zest of 1 lemon",
+    "Salt and pepper, to taste",
+    "Grated parmesan, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Cook the pasta",
+      "text": "Cook linguine in salted boiling water until al dente. Reserve 1/2 cup pasta water, then drain."
+    },
+    {
+      "name": "Sear the shrimp",
+      "text": "Pat shrimp dry, season with salt and pepper. Melt 2 tbsp butter in a large skillet over medium-high heat and sear shrimp 1-2 minutes per side until pink. Remove and set aside."
+    },
+    {
+      "name": "Make the sauce",
+      "text": "Add remaining butter and garlic to the skillet, cook 30 seconds. Pour in white wine and simmer 2-3 minutes to reduce slightly."
+    },
+    {
+      "name": "Combine and serve",
+      "text": "Return shrimp and drained pasta to the skillet, toss with parsley, red pepper flakes and lemon zest, adding pasta water as needed to loosen. Top with parmesan."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does the shrimp need to come out of the pan before the sauce?",
+      "answer": "Shrimp cooks in just a couple minutes — leaving it in while the sauce reduces would overcook it into a rubbery texture, so searing it first and adding it back at the end keeps it tender."
+    },
+    {
+      "question": "Can I skip the wine?",
+      "answer": "Yes — chicken broth with a splash of white wine vinegar or lemon juice gives a similar acidity without the alcohol."
+    },
+    {
+      "question": "How do I keep the shrimp from turning rubbery?",
+      "answer": "Watch for the color change from gray to pink and opaque — that's the signal it's done, usually just 1-2 minutes per side over medium-high heat."
+    }
+  ],
+  "storyIntro": [
+    "This is the pasta that convinces people cooking shrimp at home is easier than it looks — the whole dish comes together in the time it takes to boil the pasta.",
+    "Searing the shrimp separately and adding it back at the end is the one step that keeps it from turning tough."
+  ],
+  "storyNote": "Sear the shrimp just until pink and opaque, then pull it out of the pan immediately — it keeps cooking in residual heat, and rubbery shrimp is almost always a sign of leaving it in the pan too long.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of shrimp pasta with garlic butter sauce and parsley",
+    "textureAlt": "Close-up of shrimp pasta showing glossy garlic butter sauce",
+    "pinAlt": "Overhead shrimp pasta with lemon and parmesan"
+  }
+}

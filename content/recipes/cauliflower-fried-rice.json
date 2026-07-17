@@ -1,0 +1,85 @@
+{
+  "slug": "cauliflower-fried-rice",
+  "title": "Cauliflower Fried Rice",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Low-carb cauliflower fried rice with egg and vegetables — all the flavor of takeout fried rice, a fraction of the carbs.",
+  "targetKeywords": [
+    "cauliflower fried rice",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Asian-inspired",
+  "keywords": "cauliflower fried rice, low carb fried rice, cauliflower rice recipe",
+  "nutrition": {
+    "calories": "180",
+    "proteinContent": "9g",
+    "carbohydrateContent": "12g",
+    "fatContent": "11g"
+  },
+  "ingredients": [
+    "1 large head cauliflower, riced (or 4 cups pre-riced cauliflower)",
+    "2 eggs, beaten",
+    "1 cup frozen peas and carrots",
+    "3 green onions, sliced",
+    "2 cloves garlic, minced",
+    "3 tbsp soy sauce",
+    "1 tbsp sesame oil",
+    "2 tbsp vegetable oil",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Rice the cauliflower",
+      "text": "If using a whole head, pulse florets in a food processor until they resemble rice grains. Pat dry with paper towels to remove excess moisture."
+    },
+    {
+      "name": "Scramble the egg",
+      "text": "Heat 1 tbsp oil in a large skillet or wok over medium-high heat. Pour in the beaten eggs and scramble until just set. Remove and set aside."
+    },
+    {
+      "name": "Cook the vegetables",
+      "text": "Add remaining oil, garlic, peas and carrots to the skillet, cooking 2-3 minutes."
+    },
+    {
+      "name": "Add cauliflower rice",
+      "text": "Add the riced cauliflower, soy sauce and sesame oil. Stir fry for 5-6 minutes until the cauliflower is tender but not mushy. Fold in the scrambled egg and green onions before serving."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does my cauliflower rice turn mushy?",
+      "answer": "Excess moisture is the culprit — pat the riced cauliflower dry with paper towels before cooking, and don't overcrowd the pan, which traps steam instead of letting it fry."
+    },
+    {
+      "question": "Can I use store-bought riced cauliflower?",
+      "answer": "Yes, and it saves a step — just check if it's fresh or frozen; frozen riced cauliflower releases more water, so it may need an extra minute or two of cooking to dry out properly."
+    },
+    {
+      "question": "How do I add protein to make this a full meal?",
+      "answer": "Diced cooked chicken, shrimp, or crumbled tofu all stir in well at the same stage as the vegetables."
+    }
+  ],
+  "storyIntro": [
+    "Cauliflower fried rice earns its place on a real dinner rotation, not just as a diet substitute — the key is treating it exactly like rice: dry it out first and don't crowd the pan.",
+    "Done right, it has the same fried, slightly caramelized edges as the real thing."
+  ],
+  "storyNote": "Pat the riced cauliflower dry before it hits the pan — skipping this is the single biggest reason cauliflower rice turns watery and mushy instead of properly fried.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Cauliflower fried rice with egg and vegetables in a skillet",
+    "textureAlt": "Close-up of cauliflower fried rice showing fried texture and scrambled egg",
+    "pinAlt": "Overhead bowl of cauliflower fried rice with green onion"
+  }
+}

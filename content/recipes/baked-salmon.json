@@ -1,0 +1,83 @@
+{
+  "slug": "baked-salmon",
+  "title": "Baked Salmon",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Simple baked salmon with lemon and garlic butter — flaky, never dry, ready in 20 minutes.",
+  "targetKeywords": [
+    "baked salmon",
+    "salmon recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "baked salmon, easy salmon recipe, oven baked salmon",
+  "nutrition": {
+    "calories": "320",
+    "proteinContent": "34g",
+    "carbohydrateContent": "2g",
+    "fatContent": "19g"
+  },
+  "ingredients": [
+    "4 salmon fillets (6 oz each)",
+    "3 tbsp butter, melted",
+    "3 cloves garlic, minced",
+    "1 lemon, half juiced and half sliced",
+    "1 tsp dried dill",
+    "Salt and pepper, to taste",
+    "Fresh parsley, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Prep the salmon",
+      "text": "Preheat oven to 400°F (200°C). Pat salmon fillets dry and place skin-side down on a lined baking sheet."
+    },
+    {
+      "name": "Make the butter sauce",
+      "text": "Whisk together melted butter, garlic, lemon juice and dill. Brush generously over the salmon fillets, then season with salt and pepper."
+    },
+    {
+      "name": "Bake",
+      "text": "Top each fillet with a lemon slice. Bake for 12-15 minutes, until the salmon flakes easily with a fork and reaches 145°F (63°C) internally."
+    },
+    {
+      "name": "Serve",
+      "text": "Garnish with fresh parsley and serve immediately."
+    }
+  ],
+  "tips": [
+    {
+      "question": "How do I know when salmon is done without a thermometer?",
+      "answer": "The flesh should turn from translucent to opaque pink and flake easily when pressed with a fork — if it still looks glossy and resists flaking, give it another 2-3 minutes."
+    },
+    {
+      "question": "Why bake skin-side down?",
+      "answer": "The skin acts as a barrier that protects the flesh from the direct heat of the pan, keeping the fish moist while the top gets lightly golden from the butter."
+    },
+    {
+      "question": "Can I use frozen salmon?",
+      "answer": "Yes, but thaw it fully in the fridge overnight first — baking from frozen cooks unevenly and the butter sauce won't adhere well to an icy surface."
+    }
+  ],
+  "storyIntro": [
+    "Salmon has a reputation for being easy to overcook, but the fix is simpler than most people think — a hot oven, a short cook time, and pulling it the moment it flakes.",
+    "This version uses a garlic lemon butter that bastes the fish as it bakes, so there's no separate sauce to make."
+  ],
+  "storyNote": "Pull the salmon the moment it flakes easily — carryover heat finishes the last bit of cooking, and it goes from perfectly moist to dry fast if left in even a few minutes too long.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Baked salmon fillets with lemon slices and fresh parsley",
+    "textureAlt": "Close-up of flaky baked salmon showing moist interior",
+    "pinAlt": "Overhead baked salmon with garlic butter sauce and lemon"
+  }
+}

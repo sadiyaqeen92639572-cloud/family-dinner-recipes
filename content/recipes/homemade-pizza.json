@@ -1,0 +1,83 @@
+{
+  "slug": "homemade-pizza",
+  "title": "Homemade Pizza",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Homemade pizza with a crispy crust, tangy sauce and melted mozzarella — better than delivery, made in your own oven.",
+  "targetKeywords": [
+    "homemade pizza",
+    "pizza recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT20M",
+  "cookTime": "PT15M",
+  "totalTime": "PT35M",
+  "recipeYield": "2 pizzas (4 servings)",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Italian-American",
+  "keywords": "homemade pizza, pizza dough recipe, easy homemade pizza",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "16g",
+    "carbohydrateContent": "48g",
+    "fatContent": "14g"
+  },
+  "ingredients": [
+    "1 lb pizza dough (store-bought or homemade), room temperature",
+    "1 cup pizza sauce",
+    "2.5 cups shredded mozzarella",
+    "Toppings of choice (pepperoni, mushrooms, peppers, etc.)",
+    "2 tbsp olive oil",
+    "1 tsp dried oregano",
+    "Cornmeal, for dusting"
+  ],
+  "steps": [
+    {
+      "name": "Preheat",
+      "text": "Preheat oven to 475°F (245°C) with a pizza stone or baking sheet inside to heat up."
+    },
+    {
+      "name": "Shape the dough",
+      "text": "On a lightly floured surface, stretch or roll the dough into a 12-inch round. Transfer to a pizza peel or parchment paper dusted with cornmeal."
+    },
+    {
+      "name": "Add toppings",
+      "text": "Brush the edges with olive oil. Spread pizza sauce evenly, leaving a border for the crust. Top with mozzarella and desired toppings, then sprinkle with oregano."
+    },
+    {
+      "name": "Bake",
+      "text": "Slide the pizza onto the hot stone or baking sheet. Bake for 12-15 minutes until the crust is golden and the cheese is bubbly and lightly browned."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why preheat the pizza stone or pan?",
+      "answer": "A hot surface gives the dough an immediate blast of heat from underneath, which is what creates a crispy crust bottom — putting dough on a cold pan results in a pale, soft base."
+    },
+    {
+      "question": "Why let the dough come to room temperature first?",
+      "answer": "Cold dough straight from the fridge is stiff and resists stretching, tearing easily — room temperature dough is far more pliable and easier to shape without holes."
+    },
+    {
+      "question": "How do I avoid a soggy center?",
+      "answer": "Don't overload with sauce or watery toppings (like fresh tomato slices) — use a moderate amount of sauce and pat very wet toppings dry before adding them."
+    }
+  ],
+  "storyIntro": [
+    "Homemade pizza gets better the moment you start preheating the pan or stone along with the oven — that blast of bottom heat is the difference between a crispy crust and a soggy one.",
+    "Beyond that, it's just assembly, and it's faster than waiting for delivery most nights."
+  ],
+  "storyNote": "Preheat the stone or pan along with the oven for the full time — sliding dough onto a surface that hasn't had time to get hot is the most common reason homemade pizza crust turns out pale and soft.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Homemade pizza with melted mozzarella and toppings fresh from the oven",
+    "textureAlt": "Close-up of pizza slice showing crispy crust and melted cheese",
+    "pinAlt": "Overhead homemade pizza with pepperoni and herbs"
+  }
+}

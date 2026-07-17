@@ -1,0 +1,86 @@
+{
+  "slug": "beef-enchiladas",
+  "title": "Beef Enchiladas",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Beef enchiladas with a rich red sauce and melted cheese — classic Tex-Mex comfort food baked until bubbly.",
+  "targetKeywords": [
+    "beef enchiladas",
+    "enchilada recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT20M",
+  "cookTime": "PT25M",
+  "totalTime": "PT45M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Tex-Mex",
+  "keywords": "beef enchiladas, easy enchilada recipe, homemade enchiladas",
+  "nutrition": {
+    "calories": "420",
+    "proteinContent": "26g",
+    "carbohydrateContent": "32g",
+    "fatContent": "22g"
+  },
+  "ingredients": [
+    "1.5 lbs ground beef",
+    "1 onion, diced",
+    "2 cloves garlic, minced",
+    "2 tsp chili powder",
+    "1 tsp cumin",
+    "10 corn tortillas",
+    "2.5 cups red enchilada sauce",
+    "2 cups shredded cheddar or Mexican blend cheese",
+    "Chopped cilantro, for serving",
+    "Salt, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Brown the beef",
+      "text": "Preheat oven to 375°F (190°C). Brown the ground beef with onion and garlic in a skillet, about 7 minutes. Stir in chili powder, cumin and salt. Drain excess fat."
+    },
+    {
+      "name": "Warm the tortillas",
+      "text": "Wrap tortillas in a damp paper towel and microwave for 30 seconds to make them pliable — this prevents cracking when rolled."
+    },
+    {
+      "name": "Fill and roll",
+      "text": "Spread a thin layer of enchilada sauce in a baking dish. Fill each tortilla with beef mixture and a sprinkle of cheese, roll tightly, and place seam-side down in the dish."
+    },
+    {
+      "name": "Sauce and bake",
+      "text": "Pour remaining enchilada sauce over the top, sprinkle with remaining cheese, and bake for 20-25 minutes until bubbly. Top with cilantro."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why do my tortillas crack when rolling?",
+      "answer": "Cold, dry tortillas crack easily — warming them briefly (damp paper towel in the microwave, or a few seconds per side in a dry skillet) makes them pliable enough to roll without tearing."
+    },
+    {
+      "question": "Corn or flour tortillas?",
+      "answer": "Corn tortillas are traditional for enchiladas and hold up better against the sauce without turning mushy — flour tortillas can work but get softer faster."
+    },
+    {
+      "question": "Can I assemble these ahead?",
+      "answer": "Yes — assemble fully, cover, and refrigerate up to 24 hours before baking. Add about 5-10 extra minutes to the bake time if going in cold."
+    }
+  ],
+  "storyIntro": [
+    "Enchiladas look like a project but the actual technique is simple — the only real skill is warming the tortillas so they roll without splitting.",
+    "A from-scratch or good-quality jarred red sauce, plenty of cheese, and a hot oven do the rest."
+  ],
+  "storyNote": "Warm the tortillas before rolling — even 30 seconds under a damp paper towel in the microwave is enough to keep them from cracking and losing their filling.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Beef enchiladas covered in red sauce and melted cheese",
+    "textureAlt": "Close-up of beef enchilada cross-section showing filling",
+    "pinAlt": "Overhead baking dish of beef enchiladas with cilantro"
+  }
+}

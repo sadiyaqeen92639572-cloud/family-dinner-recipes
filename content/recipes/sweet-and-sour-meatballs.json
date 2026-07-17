@@ -1,0 +1,86 @@
+{
+  "slug": "sweet-and-sour-meatballs",
+  "title": "Sweet and Sour Meatballs",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Sweet and sour meatballs made with frozen meatballs and a quick homemade sauce — an easy 25-minute dinner over rice.",
+  "targetKeywords": [
+    "frozen meatball recipes",
+    "easy dinner recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Asian-American",
+  "keywords": "sweet and sour meatballs, frozen meatball recipe, easy meatball dinner",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "20g",
+    "carbohydrateContent": "38g",
+    "fatContent": "16g"
+  },
+  "ingredients": [
+    "1 bag (24 oz) frozen fully-cooked meatballs",
+    "1/2 cup pineapple juice",
+    "1/3 cup ketchup",
+    "3 tbsp brown sugar",
+    "2 tbsp rice vinegar",
+    "2 tbsp soy sauce",
+    "1 tbsp cornstarch mixed with 1 tbsp water",
+    "1 bell pepper, chunked",
+    "1 cup pineapple chunks",
+    "Cooked rice, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Make the sauce",
+      "text": "In a saucepan, whisk together pineapple juice, ketchup, brown sugar, rice vinegar and soy sauce. Bring to a simmer over medium heat."
+    },
+    {
+      "name": "Thicken",
+      "text": "Stir in the cornstarch slurry and simmer 2-3 minutes until the sauce thickens enough to coat a spoon."
+    },
+    {
+      "name": "Add meatballs and vegetables",
+      "text": "Add frozen meatballs, bell pepper and pineapple chunks to the sauce. Cover and simmer for 12-15 minutes, stirring occasionally, until meatballs are heated through and vegetables are tender."
+    },
+    {
+      "name": "Serve",
+      "text": "Serve over rice."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Do I need to thaw the meatballs first?",
+      "answer": "No — frozen, fully-cooked meatballs can go straight into the simmering sauce; just make sure they simmer long enough (12-15 minutes) to heat through to the center."
+    },
+    {
+      "question": "Can I use fresh pineapple instead of canned?",
+      "answer": "Yes, though canned pineapple juice specifically adds sweetness and acidity to the sauce base — if using only fresh pineapple, add a splash of orange juice or extra vinegar to balance the sauce."
+    },
+    {
+      "question": "What if the sauce is too thin?",
+      "answer": "Mix an extra teaspoon of cornstarch with a teaspoon of water and stir it in, then simmer another minute or two until it thickens."
+    }
+  ],
+  "storyIntro": [
+    "This is the dinner for nights when a bag of frozen meatballs in the freezer is the only head start needed — the sauce comes together in the same pan while the meatballs heat through.",
+    "Sweet, tangy and ready faster than delivery, with pantry staples doing most of the work."
+  ],
+  "storyNote": "Simmer the meatballs fully covered for the full 12-15 minutes — frozen meatballs need that time to heat through to the center, even though the sauce itself thickens much faster.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Sweet and sour meatballs with bell peppers and pineapple in glossy sauce",
+    "textureAlt": "Close-up of sweet and sour meatballs showing thick glossy sauce",
+    "pinAlt": "Overhead bowl of sweet and sour meatballs over rice"
+  }
+}

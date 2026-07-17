@@ -1,0 +1,82 @@
+{
+  "slug": "beef-and-rice-skillet",
+  "title": "Beef and Rice Skillet",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "One-pan beef and rice skillet with a savory tomato broth — a simple, filling weeknight dinner with easy cleanup.",
+  "targetKeywords": [
+    "beef and rice skillet",
+    "ground beef recipes"
+  ],
+  "author": "Laura Bennett",
+  "datePublished": "2026-07-18",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "beef and rice skillet, ground beef and rice, one pan dinner",
+  "nutrition": {
+    "calories": "420",
+    "proteinContent": "25g",
+    "carbohydrateContent": "40g",
+    "fatContent": "17g"
+  },
+  "ingredients": [
+    "1 lb ground beef",
+    "1 onion, diced",
+    "2 cloves garlic, minced",
+    "1 cup long-grain rice, uncooked",
+    "1 can (14.5 oz) diced tomatoes",
+    "2 cups beef broth",
+    "1 tsp cumin",
+    "1 tsp paprika",
+    "1 cup shredded cheese",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Brown the beef",
+      "text": "Heat a large deep skillet over medium-high heat. Brown the ground beef with onion and garlic, about 6-7 minutes. Drain excess fat."
+    },
+    {
+      "name": "Add rice and liquid",
+      "text": "Stir in rice, diced tomatoes, beef broth, cumin and paprika. Bring to a simmer, cover, and cook for 18-20 minutes until rice is tender and liquid is absorbed."
+    },
+    {
+      "name": "Finish",
+      "text": "Season with salt and pepper, top with cheese, cover for 2 minutes until melted, then serve."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why is my rice unevenly cooked?",
+      "answer": "Uneven heat or lifting the lid too often lets steam escape — keep the skillet covered and the heat at a gentle simmer for the full 18-20 minutes without checking repeatedly."
+    },
+    {
+      "question": "Can I use brown rice instead?",
+      "answer": "Yes, but it needs roughly double the cook time and a bit more liquid — white rice is more reliable for the one-pan method here."
+    },
+    {
+      "question": "How do I add more vegetables?",
+      "answer": "Diced bell peppers or corn stir in well with the rice at the start of the simmer and cook through in the same time."
+    }
+  ],
+  "storyIntro": [
+    "This is the dinner that uses one skillet and pantry staples to make something that tastes like it took more effort than it did.",
+    "The rice cooks directly in the seasoned broth, soaking up all the flavor instead of being a plain side."
+  ],
+  "storyNote": "Keep the lid on during the full simmer — lifting it to check repeatedly lets steam escape and can leave the rice undercooked by the time the liquid runs out.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Beef and rice skillet with melted cheese on top",
+    "textureAlt": "Close-up of beef and rice skillet showing tender rice and ground beef",
+    "pinAlt": "Overhead beef and rice skillet fresh off the stove"
+  }
+}
