@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATE = '2026-07-17';
-const AUTHOR = 'Recipe Team';
+const AUTHOR = 'Laura Bennett';
 
 function r(o) {
   return {

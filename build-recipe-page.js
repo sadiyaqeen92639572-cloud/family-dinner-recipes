@@ -76,6 +76,15 @@ function buildJsonLd(r) {
     address: { '@type': 'PostalAddress', streetAddress: 'Hardy House, 269 Poynders Gardens', addressLocality: 'London', postalCode: 'SW4 8PQ', addressCountry: 'GB' }
   });
 
+  graph.push({
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: SITE_NAME, item: `${SITE_URL}/` },
+      { '@type': 'ListItem', position: 2, name: r.hubLabel || r.recipeCategory, item: `${SITE_URL}/${r.hubPath}/` },
+      { '@type': 'ListItem', position: 3, name: r.title, item: `${SITE_URL}/${r.hubPath}/${r.slug}/` }
+    ]
+  });
+
   return { '@context': 'https://schema.org', '@graph': graph };
 }
 
@@ -112,6 +121,10 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
 <meta property="og:description" content="${r.metaDescription}">
 <meta property="og:image" content="${SITE_URL}/images/${r.slug}/hero.jpg">
 <meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${r.title}">
+<meta name="twitter:description" content="${r.metaDescription}">
+<meta name="twitter:image" content="${SITE_URL}/images/${r.slug}/hero.jpg">
 <meta name="pinterest-rich-pin" content="true">
 <script type="application/ld+json">${JSON.stringify(jsonLd, null, 2)}</script>
 <style>
@@ -150,7 +163,7 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
   <p class="meta"><a href="/">${SITE_NAME}</a> &rsaquo; <a href="/${r.hubPath}/">${r.hubLabel || r.recipeCategory}</a> &rsaquo; ${r.title}</p>
 
   <h1>${r.title}</h1>
-  <p class="meta">By ${r.author} · Published ${r.datePublished} · ${r.nutrition.proteinContent} protein per serving</p>
+  <p class="meta">By <a href="/about/">${r.author}</a> · Published ${r.datePublished} · ${r.nutrition.proteinContent} protein per serving</p>
 
   <img src="/images/${r.slug}/hero.jpg" alt="${r.images.heroAlt}" class="hero" loading="eager">
 
