@@ -118,6 +118,7 @@ const homeHtml = `<!DOCTYPE html>
 <title>${SITE_NAME} — Easy Dinners, Chicken, Cookies &amp; More</title>
 <meta name="description" content="Easy family dinner recipes — chicken, crockpot, air fryer, cookies and salads. Simple ingredients, real step-by-step instructions, ready in 30 minutes or less.">
 <link rel="canonical" href="${SITE_URL}/">
+<meta name="google-site-verification" content="ZYrqX29hsgLtjmKjebWD26amwBK2cBYGcYbgdy48pyw" />
 <meta property="og:title" content="${SITE_NAME} — Easy Dinners, Chicken, Cookies &amp; More">
 <meta property="og:description" content="Easy family dinner recipes — chicken, crockpot, air fryer, cookies and salads. Ready in 30 minutes or less.">
 <meta property="og:type" content="website">
