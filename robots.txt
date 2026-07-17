@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://familydinnerrecipes.com/sitemap.xml
+Sitemap: https://thehungryhousehold.com/sitemap.xml

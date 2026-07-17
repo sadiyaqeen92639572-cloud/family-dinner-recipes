@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const SITE_URL = 'https://familydinnerrecipes.com';
-const SITE_NAME = 'Family Dinner Recipes';
+const SITE_URL = 'https://thehungryhousehold.com';
+const SITE_NAME = 'The Hungry Household';
 
 function loadRecipe(slug) {
   const file = path.join(__dirname, 'content', 'recipes', `${slug}.json`);

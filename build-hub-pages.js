@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const SITE_URL = 'https://familydinnerrecipes.com';
-const SITE_NAME = 'Family Dinner Recipes';
+const SITE_URL = 'https://thehungryhousehold.com';
+const SITE_NAME = 'The Hungry Household';
 
 const dir = path.join(__dirname, 'content', 'recipes');
 const all = fs.readdirSync(dir).filter(f => f.endsWith('.json')).map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')));
@@ -108,7 +108,7 @@ const homeHtml = `<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Family Dinner Recipes — Easy Dinners, Chicken, Cookies &amp; More</title>
+<title>${SITE_NAME} — Easy Dinners, Chicken, Cookies &amp; More</title>
 <meta name="description" content="Easy family dinner recipes — chicken, crockpot, air fryer, cookies and salads. Simple ingredients, real step-by-step instructions, ready in 30 minutes or less.">
 <link rel="canonical" href="${SITE_URL}/">
 <script type="application/ld+json">
@@ -139,7 +139,7 @@ const homeHtml = `<!DOCTYPE html>
 </head>
 <body>
 <div class="wrap">
-  <h1>Family Dinner Recipes — Easy Dinners for Real Weeknights</h1>
+  <h1>${SITE_NAME} — Easy Dinners for Real Weeknights</h1>
   <p class="intro">Simple, tested recipes for the meals your family actually eats — dinner, chicken, crockpot, air fryer, cookies and salads. No complicated ingredient lists, just real step-by-step instructions.</p>
 
   <div class="hub-grid">
