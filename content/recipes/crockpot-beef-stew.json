@@ -1,0 +1,88 @@
+{
+  "slug": "crockpot-beef-stew",
+  "title": "Crockpot Beef Stew",
+  "hubPath": "crockpot",
+  "hubLabel": "Crockpot",
+  "metaDescription": "Hearty crockpot beef stew with tender chunks of beef, potatoes and carrots in a rich broth — the ultimate set-and-forget comfort dinner.",
+  "targetKeywords": [
+    "crockpot recipes",
+    "crockpot beef stew"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT20M",
+  "cookTime": "PT8H",
+  "totalTime": "PT8H20M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Crockpot",
+  "recipeCuisine": "American",
+  "keywords": "crockpot beef stew, slow cooker beef stew, comfort food",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "28g",
+    "carbohydrateContent": "26g",
+    "fatContent": "16g"
+  },
+  "ingredients": [
+    "2 lbs beef chuck roast, cubed",
+    "3 tbsp flour",
+    "2 tbsp olive oil",
+    "4 carrots, sliced",
+    "4 potatoes, cubed",
+    "1 onion, diced",
+    "3 cloves garlic, minced",
+    "4 cups beef broth",
+    "2 tbsp tomato paste",
+    "1 tsp dried thyme",
+    "2 bay leaves",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Sear the beef",
+      "text": "Toss the beef cubes with flour, salt and pepper. Heat olive oil in a skillet over medium-high heat and sear the beef in batches for 2-3 minutes per side until browned. Transfer to the crockpot."
+    },
+    {
+      "name": "Load the crockpot",
+      "text": "Add carrots, potatoes, onion, garlic, beef broth, tomato paste, thyme and bay leaves to the crockpot with the beef. Stir to combine."
+    },
+    {
+      "name": "Cook low and slow",
+      "text": "Cover and cook on low for 8 hours, or on high for 4-5 hours, until the beef is fork-tender."
+    },
+    {
+      "name": "Finish",
+      "text": "Remove the bay leaves before serving. If the stew needs thickening, mash a few potato chunks against the side of the pot and stir in."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Do I really need to sear the beef first?",
+      "answer": "Searing adds a layer of browned flavor that the slow cooker alone can't replicate — it's worth the extra 10 minutes for a stew that tastes deeper rather than just boiled."
+    },
+    {
+      "question": "Why is my stew watery?",
+      "answer": "The flour coating on the beef is what thickens the broth as it cooks — if the stew still looks thin at the end, mash a few potato pieces against the pot wall and stir them in to thicken naturally."
+    },
+    {
+      "question": "Can I add the potatoes later instead of at the start?",
+      "answer": "For a long 8-hour cook, starting them together is fine — they hold up well. For a shorter high-heat cook, adding them isn't necessary to delay since 4-5 hours won't overcook them."
+    }
+  ],
+  "storyIntro": [
+    "Beef stew is the dish that rewards patience — the tougher, cheaper cuts of beef like chuck roast are exactly what you want here, because the long slow cook is what breaks down the connective tissue into something fork-tender.",
+    "Searing the beef first before it goes into the crockpot adds a layer of flavor that just dumping everything in raw can't match."
+  ],
+  "storyNote": "Don't skip searing the beef, even though it adds a step — the browned crust that develops in the skillet is flavor the slow cooker alone won't build.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of crockpot beef stew with tender beef, carrots and potatoes",
+    "textureAlt": "Close-up of crockpot beef stew showing fork-tender beef chunks",
+    "pinAlt": "Overhead bowl of crockpot beef stew garnished with thyme"
+  }
+}

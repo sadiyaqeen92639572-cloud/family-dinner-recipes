@@ -1,0 +1,88 @@
+{
+  "slug": "one-pan-ground-beef-skillet",
+  "title": "One-Pan Ground Beef Skillet",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "One-pan ground beef skillet with rice, tomatoes and melted cheese — a 30-minute weeknight dinner with just one pan to wash.",
+  "targetKeywords": [
+    "ground beef recipes for dinner",
+    "easy dinner recipes",
+    "one pan dinner"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "ground beef skillet, one pan dinner, easy weeknight dinner",
+  "nutrition": {
+    "calories": "480",
+    "proteinContent": "28g",
+    "carbohydrateContent": "38g",
+    "fatContent": "22g"
+  },
+  "ingredients": [
+    "1 lb ground beef",
+    "1 small onion, diced",
+    "2 cloves garlic, minced",
+    "1 cup long-grain rice, uncooked",
+    "1 can (14.5 oz) diced tomatoes",
+    "2 cups beef broth",
+    "1 tsp chili powder",
+    "1 tsp paprika",
+    "1 cup shredded cheddar cheese",
+    "Salt and pepper, to taste",
+    "Chopped parsley, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Brown the beef",
+      "text": "Heat a large deep skillet over medium-high heat. Add the ground beef and cook, breaking it apart, for 6-7 minutes until browned. Drain excess fat."
+    },
+    {
+      "name": "Soften the aromatics",
+      "text": "Add the onion and garlic to the skillet and cook for 3 minutes until the onion softens."
+    },
+    {
+      "name": "Simmer with rice",
+      "text": "Stir in the rice, diced tomatoes, beef broth, chili powder and paprika. Bring to a simmer, cover, and cook for 18-20 minutes until the rice is tender and liquid is absorbed."
+    },
+    {
+      "name": "Melt the cheese and serve",
+      "text": "Sprinkle cheddar over the top, cover for 2 minutes until melted, then garnish with parsley and serve straight from the skillet."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Can I use ground turkey instead of beef?",
+      "answer": "Yes — ground turkey works as a direct swap, though it releases less fat so you can skip the draining step."
+    },
+    {
+      "question": "Why is my rice still crunchy after 20 minutes?",
+      "answer": "Your simmer was likely too aggressive and boiled off the liquid too fast — keep the heat low enough for a gentle simmer, and add a splash more broth if the pan looks dry before the rice is done."
+    },
+    {
+      "question": "Can I make this ahead?",
+      "answer": "Yes — it reheats well in a skillet with a splash of broth to loosen the rice. Store in the fridge up to 4 days."
+    }
+  ],
+  "storyIntro": [
+    "This is the dinner I make when I want something filling on the table without a sink full of dishes after. Ground beef, rice and tomatoes simmer together in one skillet until the rice soaks up all that flavor.",
+    "It is not fancy, but it is the kind of dinner that disappears fast at a family table — and cleanup is just one pan."
+  ],
+  "storyNote": "Keep the simmer gentle and covered — a rolling boil will evaporate the liquid before the rice has time to cook through.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Skillet of ground beef, rice and melted cheddar cheese garnished with parsley",
+    "textureAlt": "Close-up of ground beef skillet showing rice and melted cheese texture",
+    "pinAlt": "Overhead shot of one-pan ground beef skillet with cheese and parsley"
+  }
+}

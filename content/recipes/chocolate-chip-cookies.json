@@ -1,0 +1,89 @@
+{
+  "slug": "chocolate-chip-cookies",
+  "title": "Chocolate Chip Cookies",
+  "hubPath": "cookies",
+  "hubLabel": "Cookies",
+  "metaDescription": "Classic chocolate chip cookies with crispy edges and a soft, chewy center — the everyday recipe that never needs replacing.",
+  "targetKeywords": [
+    "cookie recipes",
+    "chocolate chip cookies"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "recipeYield": "24 cookies",
+  "recipeCategory": "Cookies",
+  "recipeCuisine": "American",
+  "keywords": "chocolate chip cookies, classic cookie recipe, chewy cookies",
+  "nutrition": {
+    "calories": "180",
+    "proteinContent": "2g",
+    "carbohydrateContent": "24g",
+    "fatContent": "9g"
+  },
+  "ingredients": [
+    "2 1/4 cups all-purpose flour",
+    "1 tsp baking soda",
+    "1 tsp salt",
+    "1 cup unsalted butter, softened",
+    "3/4 cup granulated sugar",
+    "3/4 cup packed brown sugar",
+    "2 large eggs",
+    "2 tsp vanilla extract",
+    "2 cups chocolate chips"
+  ],
+  "steps": [
+    {
+      "name": "Mix dry ingredients",
+      "text": "Whisk together flour, baking soda and salt in a bowl. Set aside."
+    },
+    {
+      "name": "Cream the butter and sugars",
+      "text": "In a large bowl, beat the softened butter with both sugars until light and fluffy, about 2-3 minutes."
+    },
+    {
+      "name": "Add eggs and vanilla",
+      "text": "Beat in the eggs one at a time, then the vanilla, until fully combined."
+    },
+    {
+      "name": "Combine and add chips",
+      "text": "Gradually mix in the dry ingredients until just combined — don't overmix. Fold in the chocolate chips."
+    },
+    {
+      "name": "Bake",
+      "text": "Preheat oven to 375°F (190°C). Drop rounded tablespoons of dough onto a lined baking sheet, spaced 2 inches apart. Bake for 9-11 minutes until the edges are golden but the centers still look slightly underdone."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why do my cookies come out flat?",
+      "answer": "Butter that's too warm or melted spreads too much before the structure sets — make sure it's softened but still cool to the touch, and chill the dough for 30 minutes if your kitchen is warm."
+    },
+    {
+      "question": "Why does the recipe say to underbake slightly?",
+      "answer": "Cookies continue cooking on the hot baking sheet after they come out of the oven — pulling them when the center still looks a touch underdone is what keeps them chewy instead of crisp all the way through."
+    },
+    {
+      "question": "Can I freeze the dough?",
+      "answer": "Yes — scoop the dough into balls, freeze on a tray until solid, then transfer to a freezer bag. Bake straight from frozen, adding 1-2 extra minutes."
+    }
+  ],
+  "storyIntro": [
+    "Every family needs one chocolate chip cookie recipe that just works, without needing browned butter or an overnight chill — this is that recipe.",
+    "Crispy edges, chewy centers, and a dough that comes together in one bowl in about 15 minutes."
+  ],
+  "storyNote": "Pull the cookies while the centers still look slightly underdone — carryover heat on the hot pan finishes them without drying them out.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Stack of chocolate chip cookies with melty chocolate chips",
+    "textureAlt": "Close-up of chocolate chip cookie showing chewy interior",
+    "pinAlt": "Overhead plate of chocolate chip cookies with a glass of milk"
+  }
+}

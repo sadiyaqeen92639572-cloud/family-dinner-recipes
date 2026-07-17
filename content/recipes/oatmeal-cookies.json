@@ -1,0 +1,91 @@
+{
+  "slug": "oatmeal-cookies",
+  "title": "Oatmeal Cookies",
+  "hubPath": "cookies",
+  "hubLabel": "Cookies",
+  "metaDescription": "Chewy oatmeal cookies with cinnamon and raisins (or chocolate chips) — a hearty, old-fashioned cookie with real texture from the oats.",
+  "targetKeywords": [
+    "cookie recipes",
+    "oatmeal cookies"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT12M",
+  "totalTime": "PT27M",
+  "recipeYield": "24 cookies",
+  "recipeCategory": "Cookies",
+  "recipeCuisine": "American",
+  "keywords": "oatmeal cookies, chewy oatmeal cookies, old fashioned cookies",
+  "nutrition": {
+    "calories": "160",
+    "proteinContent": "3g",
+    "carbohydrateContent": "22g",
+    "fatContent": "7g"
+  },
+  "ingredients": [
+    "1 1/2 cups old-fashioned rolled oats",
+    "1 1/4 cups all-purpose flour",
+    "1 tsp baking soda",
+    "1 tsp ground cinnamon",
+    "1/2 tsp salt",
+    "3/4 cup unsalted butter, softened",
+    "3/4 cup packed brown sugar",
+    "1/4 cup granulated sugar",
+    "1 large egg",
+    "1 tsp vanilla extract",
+    "1 cup raisins or chocolate chips"
+  ],
+  "steps": [
+    {
+      "name": "Mix dry ingredients",
+      "text": "Whisk together oats, flour, baking soda, cinnamon and salt in a bowl."
+    },
+    {
+      "name": "Cream butter and sugars",
+      "text": "Beat the butter with both sugars until light and fluffy, about 2-3 minutes."
+    },
+    {
+      "name": "Add egg and vanilla",
+      "text": "Beat in the egg and vanilla until combined."
+    },
+    {
+      "name": "Combine and add mix-ins",
+      "text": "Gradually mix in the dry ingredients until just combined, then fold in raisins or chocolate chips."
+    },
+    {
+      "name": "Bake",
+      "text": "Preheat oven to 350°F (175°C). Drop rounded tablespoons of dough onto a lined baking sheet, spaced 2 inches apart. Bake for 10-12 minutes until the edges are golden and the centers still look slightly soft."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Old-fashioned oats or quick oats — does it matter?",
+      "answer": "Old-fashioned rolled oats hold their shape and give more distinct chewy texture — quick oats are cut smaller and will bake into a softer, less textured cookie, though they work in a pinch."
+    },
+    {
+      "question": "Why are my oatmeal cookies dry and cakey instead of chewy?",
+      "answer": "This usually comes from overbaking — pull them while the centers still look a little soft, since they firm up as they cool on the pan."
+    },
+    {
+      "question": "Can I substitute the raisins?",
+      "answer": "Yes — chocolate chips, dried cranberries or chopped walnuts all work as a direct swap for the raisins in equal amounts."
+    }
+  ],
+  "storyIntro": [
+    "Oatmeal cookies get a bad reputation from bakery versions that are basically hockey pucks, but the texture comes down to two things: not overbaking, and using old-fashioned oats rather than quick oats for real chew.",
+    "This version leans into cinnamon and keeps the mix-in choice flexible between classic raisins or chocolate chips."
+  ],
+  "storyNote": "Pull the cookies while the centers still look a touch soft — like most cookies, they firm up on the pan after coming out, and overbaking is what turns oatmeal cookies dry and cakey.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Stack of chewy oatmeal cookies with raisins",
+    "textureAlt": "Close-up of oatmeal cookie showing chewy oat texture",
+    "pinAlt": "Overhead plate of oatmeal cookies with cinnamon"
+  }
+}

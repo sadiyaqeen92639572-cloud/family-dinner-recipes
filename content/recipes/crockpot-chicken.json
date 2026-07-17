@@ -1,0 +1,79 @@
+{
+  "slug": "crockpot-chicken",
+  "title": "Crockpot Chicken",
+  "hubPath": "crockpot",
+  "hubLabel": "Crockpot",
+  "metaDescription": "Set-and-forget crockpot chicken that shreds perfectly — season it, walk away, and come back to tender chicken 6 hours later.",
+  "targetKeywords": [
+    "crockpot recipes",
+    "crockpot chicken"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT6H",
+  "totalTime": "PT6H10M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Crockpot",
+  "recipeCuisine": "American",
+  "keywords": "crockpot chicken, slow cooker chicken, shredded chicken",
+  "nutrition": {
+    "calories": "220",
+    "proteinContent": "36g",
+    "carbohydrateContent": "2g",
+    "fatContent": "7g"
+  },
+  "ingredients": [
+    "2.5 lbs boneless, skinless chicken breasts",
+    "1 cup chicken broth",
+    "1 tsp garlic powder",
+    "1 tsp onion powder",
+    "1 tsp paprika",
+    "1/2 tsp dried thyme",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Season and load the crockpot",
+      "text": "Place the chicken breasts in the crockpot. Pour the broth over them, then sprinkle garlic powder, onion powder, paprika, thyme, salt and pepper evenly over the top."
+    },
+    {
+      "name": "Cook low and slow",
+      "text": "Cover and cook on low for 6 hours, or on high for 3-3.5 hours, until the chicken shreds easily with a fork."
+    },
+    {
+      "name": "Shred and serve",
+      "text": "Remove the chicken, shred with two forks, and stir back into the cooking liquid to keep it moist. Use in tacos, salads, bowls or sandwiches."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why is my chicken dry after 6 hours?",
+      "answer": "Chicken breast can dry out if cooked on high heat for too long, or if it sits shredded outside the liquid — always shred it back into the cooking liquid rather than draining it away."
+    },
+    {
+      "question": "Can I use chicken thighs instead?",
+      "answer": "Yes — thighs are more forgiving and stay juicy even with a longer cook time, since they have more fat than breast meat."
+    },
+    {
+      "question": "How long does the shredded chicken keep?",
+      "answer": "Up to 5 days in the fridge, or freeze in portions for up to 3 months — it reheats well since it stays in its own broth."
+    }
+  ],
+  "storyIntro": [
+    "This is the recipe that turns into five different dinners over the course of a week — tacos one night, a chicken salad the next, thrown into a soup after that. Load the crockpot in the morning and shredded chicken is waiting by dinner.",
+    "The broth it cooks in does most of the flavor work, so the seasoning list stays short."
+  ],
+  "storyNote": "Shred the chicken back into its cooking liquid instead of draining it — that liquid is what keeps the shredded meat from drying out as it sits.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of shredded crockpot chicken in its cooking broth",
+    "textureAlt": "Close-up of shredded crockpot chicken showing tender texture",
+    "pinAlt": "Overhead bowl of shredded crockpot chicken ready to use"
+  }
+}

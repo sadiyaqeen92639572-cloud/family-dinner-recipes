@@ -1,0 +1,84 @@
+{
+  "slug": "baked-chicken-thighs",
+  "title": "Baked Chicken Thighs",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Baked chicken thighs with crispy skin and juicy meat — a simple seasoned recipe ready in 40 minutes with almost no prep.",
+  "targetKeywords": [
+    "chicken recipes",
+    "chicken breast recipes",
+    "baked chicken thighs"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT5M",
+  "cookTime": "PT35M",
+  "totalTime": "PT40M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "American",
+  "keywords": "baked chicken thighs, crispy chicken thighs, easy chicken dinner",
+  "nutrition": {
+    "calories": "340",
+    "proteinContent": "28g",
+    "carbohydrateContent": "1g",
+    "fatContent": "24g"
+  },
+  "ingredients": [
+    "8 bone-in, skin-on chicken thighs",
+    "2 tbsp olive oil",
+    "1 tsp garlic powder",
+    "1 tsp smoked paprika",
+    "1/2 tsp onion powder",
+    "1/2 tsp dried thyme",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Prep the chicken",
+      "text": "Preheat oven to 425°F (220°C). Pat the chicken thighs completely dry with paper towels — this is what makes the skin crisp up instead of steaming."
+    },
+    {
+      "name": "Season",
+      "text": "Rub the thighs all over with olive oil, then coat with garlic powder, smoked paprika, onion powder, thyme, salt and pepper."
+    },
+    {
+      "name": "Bake skin-side up",
+      "text": "Arrange skin-side up on a baking sheet, spaced apart. Bake for 35-40 minutes until the skin is crisp and golden and a thermometer reads 175°F (79°C) in the thickest part."
+    },
+    {
+      "name": "Rest before serving",
+      "text": "Let rest for 5 minutes before serving to let the juices settle."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why pat the chicken dry first?",
+      "answer": "Any surface moisture turns to steam in the oven, which softens the skin instead of letting it crisp — drying the skin thoroughly first is the single biggest factor in getting it crispy."
+    },
+    {
+      "question": "Why do thighs need a higher target temperature than breast?",
+      "answer": "Thigh meat has more connective tissue and fat, which needs to render and break down — pulling it at 165°F like breast meat leaves it tougher than cooking to about 175°F, which keeps it tender."
+    },
+    {
+      "question": "Can I use boneless thighs instead?",
+      "answer": "Yes — reduce the bake time to about 22-25 minutes since boneless thighs cook faster without the bone."
+    }
+  ],
+  "storyIntro": [
+    "Chicken thighs are the forgiving cut — more fat and connective tissue than breast means they stay juicy even if you overshoot the timer by a few minutes.",
+    "The one non-negotiable step is drying the skin thoroughly before it goes in the oven — that's the difference between crispy skin and rubbery skin."
+  ],
+  "storyNote": "Pat the skin bone-dry with paper towels before seasoning — any leftover moisture steams the skin instead of letting it crisp in the oven.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Baked chicken thighs with crispy golden skin on a sheet pan",
+    "textureAlt": "Close-up of baked chicken thigh showing crispy skin texture",
+    "pinAlt": "Overhead sheet pan of baked chicken thighs with herbs"
+  }
+}

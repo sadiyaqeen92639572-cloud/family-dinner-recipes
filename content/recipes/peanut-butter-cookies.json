@@ -1,0 +1,83 @@
+{
+  "slug": "peanut-butter-cookies",
+  "title": "Peanut Butter Cookies",
+  "hubPath": "cookies",
+  "hubLabel": "Cookies",
+  "metaDescription": "Classic peanut butter cookies with the signature fork crosshatch and a soft, rich center — just a handful of pantry ingredients.",
+  "targetKeywords": [
+    "cookie recipes",
+    "peanut butter cookies"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "24 cookies",
+  "recipeCategory": "Cookies",
+  "recipeCuisine": "American",
+  "keywords": "peanut butter cookies, classic cookies, easy cookie recipe",
+  "nutrition": {
+    "calories": "150",
+    "proteinContent": "4g",
+    "carbohydrateContent": "15g",
+    "fatContent": "9g"
+  },
+  "ingredients": [
+    "1 cup creamy peanut butter",
+    "1 cup granulated sugar",
+    "1 large egg",
+    "1 tsp baking soda",
+    "1/2 tsp vanilla extract",
+    "Pinch of salt",
+    "Extra sugar, for rolling (optional)"
+  ],
+  "steps": [
+    {
+      "name": "Mix the dough",
+      "text": "In a bowl, stir together peanut butter, sugar, egg, baking soda, vanilla and salt until a smooth dough forms."
+    },
+    {
+      "name": "Shape",
+      "text": "Roll the dough into 1-inch balls. Roll in extra sugar if desired, then place on a lined baking sheet spaced 2 inches apart."
+    },
+    {
+      "name": "Crosshatch and bake",
+      "text": "Preheat oven to 350°F (175°C). Press each ball flat with a fork in a crosshatch pattern. Bake for 9-11 minutes until the edges are just set."
+    },
+    {
+      "name": "Cool",
+      "text": "Let cool on the baking sheet for 5 minutes before transferring to a wire rack — they're fragile straight out of the oven."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why does the recipe have no flour?",
+      "answer": "The peanut butter itself provides enough structure to hold the cookie together, which is what makes this version simpler than a flour-based peanut butter cookie — it also gives a denser, more intensely peanut-flavored result."
+    },
+    {
+      "question": "Why the fork crosshatch pattern?",
+      "answer": "Beyond tradition, the crosshatch flattens the dough ball evenly so it bakes through consistently — without flattening, a thick ball of this dense dough can stay raw in the center."
+    },
+    {
+      "question": "Can I use natural peanut butter?",
+      "answer": "Natural peanut butter (the kind that separates) works but can make the dough oilier and less consistent — stir it very thoroughly before measuring, or stick with a no-stir creamy peanut butter for the most reliable texture."
+    }
+  ],
+  "storyIntro": [
+    "This is the peanut butter cookie built on the classic flourless formula — just peanut butter, sugar, egg and a little baking soda, so the peanut flavor comes through clean instead of diluted by flour.",
+    "The fork crosshatch is more than decoration — it flattens the thick dough evenly so the centers actually bake through."
+  ],
+  "storyNote": "Let the cookies cool on the pan for a few minutes before moving them — this flourless dough is fragile while hot and can crumble if handled too soon.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Peanut butter cookies with classic fork crosshatch pattern",
+    "textureAlt": "Close-up of peanut butter cookie showing dense crumbly texture",
+    "pinAlt": "Overhead plate of peanut butter cookies"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "air-fryer-chicken-wings",
+  "title": "Air Fryer Chicken Wings",
+  "hubPath": "air-fryer",
+  "hubLabel": "Air Fryer",
+  "metaDescription": "Air fryer chicken wings that come out crispy without any oil frying — tossed in your favorite sauce, ready in 25 minutes.",
+  "targetKeywords": [
+    "air fryer recipes",
+    "air fryer chicken wings"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Air Fryer",
+  "recipeCuisine": "American",
+  "keywords": "air fryer chicken wings, crispy wings, game day snacks",
+  "nutrition": {
+    "calories": "290",
+    "proteinContent": "26g",
+    "carbohydrateContent": "2g",
+    "fatContent": "20g"
+  },
+  "ingredients": [
+    "2 lbs chicken wings, split into flats and drumettes",
+    "1 tbsp baking powder",
+    "1 tsp garlic powder",
+    "1/2 tsp paprika",
+    "Salt and pepper, to taste",
+    "1/2 cup buffalo sauce or sauce of choice, for tossing"
+  ],
+  "steps": [
+    {
+      "name": "Dry and coat the wings",
+      "text": "Pat the wings completely dry with paper towels — this is essential for crispiness. Toss with baking powder, garlic powder, paprika, salt and pepper until evenly coated."
+    },
+    {
+      "name": "Preheat and arrange",
+      "text": "Preheat the air fryer to 380°F (193°C). Arrange the wings in a single layer in the basket, without overlapping."
+    },
+    {
+      "name": "Air fry",
+      "text": "Cook for 12 minutes, flip, then cook for another 10-13 minutes until deeply golden and crispy, and the internal temperature reaches 165°F (74°C)."
+    },
+    {
+      "name": "Toss and serve",
+      "text": "Toss the hot wings in buffalo sauce or your preferred sauce immediately after cooking, while they're still hot enough for the sauce to cling."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why baking powder and not baking soda?",
+      "answer": "Baking powder (not soda) draws moisture to the surface of the skin and raises its pH, both of which help it crisp — baking soda has a stronger, more bitter aftertaste at the same quantity, so it's not a direct swap."
+    },
+    {
+      "question": "Why toss the sauce on after cooking instead of before?",
+      "answer": "Sauce added before cooking burns and can prevent the skin from crisping — tossing hot wings in sauce right after they come out keeps the crispy texture while still coating them well."
+    },
+    {
+      "question": "How do I fit 2 lbs of wings without overcrowding?",
+      "answer": "Cook in two batches if needed — overlapping wings steam instead of crisp, so it's worth the extra 10-15 minutes for a smaller basket."
+    }
+  ],
+  "storyIntro": [
+    "Air fryer wings solve the biggest annoyance of deep frying at home — no pot of hot oil to manage, no oily smell lingering in the kitchen, and genuinely crispy results.",
+    "The baking powder coating is the one non-obvious trick that makes the difference between good wings and great wings."
+  ],
+  "storyNote": "Toss the wings in sauce right after they come out of the basket, not before cooking — sauce added beforehand burns and blocks the skin from crisping.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Crispy air fryer chicken wings tossed in buffalo sauce",
+    "textureAlt": "Close-up of air fryer chicken wing showing crispy skin texture",
+    "pinAlt": "Overhead plate of air fryer chicken wings with celery and dip"
+  }
+}

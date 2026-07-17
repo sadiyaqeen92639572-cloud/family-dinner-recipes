@@ -1,0 +1,87 @@
+{
+  "slug": "chicken-casserole",
+  "title": "Chicken Casserole",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Creamy chicken casserole with rice, vegetables and a crispy topping — a comforting make-ahead dinner the whole family will eat.",
+  "targetKeywords": [
+    "chicken recipes",
+    "chicken casserole",
+    "chicken breast recipes"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "American",
+  "keywords": "chicken casserole, chicken rice casserole, comfort food dinner",
+  "nutrition": {
+    "calories": "410",
+    "proteinContent": "30g",
+    "carbohydrateContent": "32g",
+    "fatContent": "18g"
+  },
+  "ingredients": [
+    "3 cups cooked, shredded chicken",
+    "2 cups cooked rice",
+    "1 can (10.5 oz) cream of chicken soup",
+    "1 cup sour cream",
+    "1 cup chicken broth",
+    "2 cups frozen mixed vegetables",
+    "1 cup shredded cheddar cheese",
+    "1 cup crushed buttery crackers",
+    "2 tbsp melted butter",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Mix the base",
+      "text": "Preheat oven to 375°F (190°C). In a large bowl, combine shredded chicken, rice, cream of chicken soup, sour cream, chicken broth and mixed vegetables. Season with salt and pepper and mix well."
+    },
+    {
+      "name": "Assemble",
+      "text": "Spread the mixture into a greased 9x13-inch baking dish. Sprinkle cheddar cheese evenly over the top."
+    },
+    {
+      "name": "Add the topping",
+      "text": "Toss crushed crackers with melted butter and scatter evenly over the cheese layer."
+    },
+    {
+      "name": "Bake",
+      "text": "Bake for 30-35 minutes until bubbling around the edges and the topping is golden brown."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Can I use rotisserie chicken?",
+      "answer": "Yes — rotisserie chicken is an easy shortcut here and adds extra flavor from the seasoning on the skin. About 3 cups shredded is roughly one whole rotisserie chicken."
+    },
+    {
+      "question": "Can I assemble this ahead and bake later?",
+      "answer": "Yes — assemble everything except the cracker topping, cover and refrigerate up to 24 hours. Add the topping right before baking so it stays crisp."
+    },
+    {
+      "question": "Can I freeze leftovers?",
+      "answer": "Yes, though the topping softens after freezing — for best texture, freeze without the cracker topping and add fresh crackers before reheating."
+    }
+  ],
+  "storyIntro": [
+    "This is the casserole that shows up at potlucks and family dinners for a reason — it uses whatever cooked chicken and rice you already have on hand and turns them into something that reheats better the next day.",
+    "The buttery cracker topping is what separates it from a plain baked rice dish, adding crunch against all that creamy filling."
+  ],
+  "storyNote": "Wait to add the cracker topping until just before baking if making ahead — pre-mixed crackers left sitting on top get soggy instead of staying crisp.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Baking dish of chicken casserole with golden cracker topping",
+    "textureAlt": "Close-up of chicken casserole showing creamy filling and crispy topping",
+    "pinAlt": "Overhead baking dish of chicken casserole fresh from the oven"
+  }
+}

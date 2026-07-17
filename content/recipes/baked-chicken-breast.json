@@ -1,0 +1,84 @@
+{
+  "slug": "baked-chicken-breast",
+  "title": "Baked Chicken Breast",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Juicy baked chicken breast with a simple seasoning rub — the foolproof method for tender chicken every time, ready in 30 minutes.",
+  "targetKeywords": [
+    "chicken recipes",
+    "chicken breast recipes",
+    "baked chicken breast"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "American",
+  "keywords": "baked chicken breast, juicy chicken breast, easy chicken dinner",
+  "nutrition": {
+    "calories": "260",
+    "proteinContent": "38g",
+    "carbohydrateContent": "1g",
+    "fatContent": "11g"
+  },
+  "ingredients": [
+    "4 boneless, skinless chicken breasts",
+    "2 tbsp olive oil",
+    "1 tsp garlic powder",
+    "1 tsp paprika",
+    "1/2 tsp onion powder",
+    "1/2 tsp dried oregano",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Prep the chicken",
+      "text": "Preheat oven to 425°F (220°C). Pound the chicken breasts to an even thickness (about 3/4 inch) so they cook evenly."
+    },
+    {
+      "name": "Season",
+      "text": "Rub the chicken with olive oil, then coat evenly with garlic powder, paprika, onion powder, oregano, salt and pepper."
+    },
+    {
+      "name": "Bake",
+      "text": "Place on a baking sheet and bake for 18-22 minutes, until a meat thermometer inserted in the thickest part reads 165°F (74°C)."
+    },
+    {
+      "name": "Rest and serve",
+      "text": "Let the chicken rest for 5 minutes before slicing — this keeps the juices in rather than spilling out onto the cutting board."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why pound the chicken to an even thickness?",
+      "answer": "Chicken breasts are naturally thicker on one end — without evening them out, the thin end overcooks and dries out before the thick end is done."
+    },
+    {
+      "question": "How do I know it's done without a thermometer?",
+      "answer": "A meat thermometer is the only reliable way to avoid over- or under-cooking — an instant-read thermometer is worth the small investment for chicken breast specifically since it dries out fast past 165°F."
+    },
+    {
+      "question": "Why does resting matter?",
+      "answer": "Cutting immediately after baking lets the juices run out onto the board instead of redistributing through the meat — resting 5 minutes keeps the chicken noticeably juicier."
+    }
+  ],
+  "storyIntro": [
+    "Baked chicken breast has a reputation for being dry, but that almost always comes down to two fixable things: uneven thickness and overcooking past 165°F.",
+    "Pound it even, watch the thermometer instead of the clock, and let it rest — that's the entire trick to chicken that stays juicy."
+  ],
+  "storyNote": "Pull the chicken at 165°F exactly — even a few extra minutes in the oven is the difference between juicy and dry with breast meat.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Sliced baked chicken breast on a plate with herbs",
+    "textureAlt": "Close-up of sliced baked chicken breast showing juicy interior",
+    "pinAlt": "Overhead baked chicken breast with seasoning rub and herbs"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "sheet-pan-sausage-and-vegetables",
+  "title": "Sheet Pan Sausage and Vegetables",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Sheet pan sausage and vegetables roasted together on one tray — a hands-off 35-minute dinner with easy cleanup.",
+  "targetKeywords": [
+    "easy dinner recipes",
+    "healthy dinner recipes",
+    "sheet pan dinner"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "sheet pan sausage, roasted vegetables, easy sheet pan dinner",
+  "nutrition": {
+    "calories": "440",
+    "proteinContent": "20g",
+    "carbohydrateContent": "26g",
+    "fatContent": "28g"
+  },
+  "ingredients": [
+    "1.5 lbs smoked sausage or kielbasa, sliced into rounds",
+    "1 lb baby potatoes, halved",
+    "2 bell peppers, chunked",
+    "1 red onion, chunked",
+    "2 cups broccoli florets",
+    "3 tbsp olive oil",
+    "1 tsp smoked paprika",
+    "1 tsp garlic powder",
+    "1/2 tsp dried thyme",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Preheat and start the potatoes",
+      "text": "Preheat oven to 425°F (220°C). Toss the potatoes with 1 tbsp olive oil, salt and pepper, spread on a sheet pan, and roast for 10 minutes to give them a head start."
+    },
+    {
+      "name": "Add the rest and roast",
+      "text": "Toss the sausage, bell peppers, onion and broccoli with remaining olive oil, smoked paprika, garlic powder and thyme. Add to the sheet pan with the potatoes and spread into a single layer."
+    },
+    {
+      "name": "Finish roasting",
+      "text": "Roast for another 15-18 minutes, stirring once halfway, until the vegetables are tender and lightly browned and the sausage is heated through."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why give the potatoes a head start?",
+      "answer": "Potatoes take longer to roast through than the sausage or other vegetables — starting them first keeps everything finishing at roughly the same time instead of undercooked potatoes."
+    },
+    {
+      "question": "Can I use a different sausage?",
+      "answer": "Yes — chicken sausage or Italian sausage links (sliced) both work, just adjust cook time slightly if using raw uncooked sausage rather than pre-smoked."
+    },
+    {
+      "question": "How do I keep the vegetables from steaming instead of roasting?",
+      "answer": "Spread everything in a single layer with space between pieces — an overcrowded pan traps steam and the vegetables won't brown."
+    }
+  ],
+  "storyIntro": [
+    "This is the dinner for nights when I don't want to stand at the stove. Everything roasts on one tray, so there's no juggling multiple pans or timing side dishes separately.",
+    "The smoked sausage does a lot of the flavor work, so the seasoning stays simple and the vegetables just need room on the pan to actually roast instead of steam."
+  ],
+  "storyNote": "Give everything space on the pan — a crowded tray steams instead of roasts, and you lose the browned edges that make this dinner good.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Sheet pan of roasted sausage, potatoes, bell peppers and broccoli",
+    "textureAlt": "Close-up of sheet pan sausage and vegetables showing browned roasted edges",
+    "pinAlt": "Overhead sheet pan sausage and vegetables ready to serve"
+  }
+}

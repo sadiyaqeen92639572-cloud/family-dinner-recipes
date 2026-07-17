@@ -1,0 +1,87 @@
+{
+  "slug": "crockpot-pot-roast",
+  "title": "Crockpot Pot Roast",
+  "hubPath": "crockpot",
+  "hubLabel": "Crockpot",
+  "metaDescription": "Classic crockpot pot roast with carrots, potatoes and onions in a savory gravy — fall-apart tender after 8 hours, almost no hands-on time.",
+  "targetKeywords": [
+    "crockpot recipes",
+    "crockpot pot roast"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT8H",
+  "totalTime": "PT8H15M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Crockpot",
+  "recipeCuisine": "American",
+  "keywords": "crockpot pot roast, slow cooker pot roast, Sunday dinner",
+  "nutrition": {
+    "calories": "420",
+    "proteinContent": "34g",
+    "carbohydrateContent": "24g",
+    "fatContent": "20g"
+  },
+  "ingredients": [
+    "3 lb beef chuck roast",
+    "2 tbsp olive oil",
+    "4 carrots, cut into chunks",
+    "4 potatoes, quartered",
+    "1 onion, quartered",
+    "3 cloves garlic, minced",
+    "2 cups beef broth",
+    "2 tbsp Worcestershire sauce",
+    "1 packet dry onion soup mix (or 1 tbsp onion powder + salt)",
+    "2 tbsp cornstarch (for gravy, optional)",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Sear the roast",
+      "text": "Pat the roast dry and season generously with salt and pepper. Heat olive oil in a skillet over high heat and sear the roast for 3-4 minutes per side until deeply browned."
+    },
+    {
+      "name": "Load the crockpot",
+      "text": "Place carrots, potatoes and onion in the bottom of the crockpot. Set the seared roast on top. Whisk together beef broth, Worcestershire sauce and onion soup mix, then pour over everything."
+    },
+    {
+      "name": "Cook low and slow",
+      "text": "Cover and cook on low for 8 hours, or on high for 4-5 hours, until the roast shreds easily with a fork."
+    },
+    {
+      "name": "Make the gravy and serve",
+      "text": "Remove the roast and vegetables. For a thicker gravy, whisk 2 tbsp cornstarch with 2 tbsp cold water and stir into the remaining liquid, simmering a few minutes until thickened. Slice or shred the roast and serve with vegetables and gravy."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why put the vegetables on the bottom?",
+      "answer": "The vegetables closer to the heat source and cooking liquid cook more evenly under the weight of the roast, and it keeps the roast itself from sitting directly against the hot base of the crockpot."
+    },
+    {
+      "question": "Can I skip searing the roast?",
+      "answer": "You can, but searing builds a browned crust that adds real flavor depth to both the meat and the resulting gravy — it's a worthwhile 8 minutes."
+    },
+    {
+      "question": "My roast came out tough — what happened?",
+      "answer": "Chuck roast needs the full low-and-slow time to break down its connective tissue — if it's tough, it likely needs more time, not less; unlike other cuts, chuck roast gets more tender the longer it cooks within reason."
+    }
+  ],
+  "storyIntro": [
+    "Pot roast is the Sunday dinner that runs itself — sear the meat in the morning, load the crockpot, and by dinner it falls apart with a fork.",
+    "Chuck roast is the right cut here specifically because it has enough connective tissue to actually improve with a long cook, unlike leaner cuts that just dry out."
+  ],
+  "storyNote": "Chuck roast gets more tender the longer it cooks within the crockpot's low-and-slow range — if it still seems tough at 8 hours, give it more time rather than pulling it early.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Crockpot pot roast with carrots and potatoes in gravy",
+    "textureAlt": "Close-up of fork-tender crockpot pot roast pulled apart",
+    "pinAlt": "Overhead plate of crockpot pot roast with vegetables and gravy"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "one-pot-pasta",
+  "title": "One-Pot Pasta",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "One-pot pasta with tomatoes, garlic and basil — everything cooks together in a single pot for an easy 25-minute dinner.",
+  "targetKeywords": [
+    "easy dinner recipes",
+    "dinner recipes",
+    "one pot pasta"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Italian-American",
+  "keywords": "one pot pasta, easy pasta dinner, weeknight pasta",
+  "nutrition": {
+    "calories": "410",
+    "proteinContent": "14g",
+    "carbohydrateContent": "68g",
+    "fatContent": "9g"
+  },
+  "ingredients": [
+    "12 oz spaghetti or linguine",
+    "4 cups vegetable or chicken broth",
+    "1 can (14.5 oz) diced tomatoes",
+    "4 cloves garlic, sliced",
+    "1 small onion, thinly sliced",
+    "2 tbsp olive oil",
+    "1/2 tsp red pepper flakes",
+    "1/4 cup fresh basil, torn",
+    "1/2 cup grated parmesan",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Combine everything in the pot",
+      "text": "Add the pasta, broth, diced tomatoes, garlic, onion, olive oil and red pepper flakes to a large pot or deep skillet. Season with salt and pepper."
+    },
+    {
+      "name": "Simmer, stirring often",
+      "text": "Bring to a boil, then reduce to a steady simmer. Cook for 9-12 minutes, stirring frequently so the pasta doesn't stick, until the pasta is al dente and the liquid has reduced into a sauce."
+    },
+    {
+      "name": "Finish and serve",
+      "text": "Remove from heat, stir in basil and half the parmesan. Divide among bowls and top with remaining parmesan."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why do I need to stir so often?",
+      "answer": "The pasta is cooking directly in the liquid rather than boiling water, so without frequent stirring the noodles can clump or stick to the bottom of the pot."
+    },
+    {
+      "question": "Can I add protein to this?",
+      "answer": "Yes — cooked shredded chicken or browned Italian sausage stirred in at the end works well without changing the cook time."
+    },
+    {
+      "question": "What if there is too much liquid left at the end?",
+      "answer": "Simmer uncovered for another 2-3 minutes — the starch from the pasta will help the sauce thicken as it reduces."
+    }
+  ],
+  "storyIntro": [
+    "One-pot pasta sounds like a shortcut, but it actually makes a better sauce than boiling noodles separately — the starch from the pasta thickens the tomato broth as it cooks, so you end up with a clingy sauce without any extra effort.",
+    "It is the pasta dinner I reach for on nights when even boiling a separate pot of water feels like too much."
+  ],
+  "storyNote": "Stir every couple of minutes once it starts simmering — the pasta releases starch as it cooks and will stick to the bottom of the pot if left alone too long.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Pot of one-pot pasta with tomatoes, basil and parmesan",
+    "textureAlt": "Close-up of one-pot pasta showing sauce clinging to the noodles",
+    "pinAlt": "Overhead bowl of one-pot pasta topped with basil and parmesan"
+  }
+}

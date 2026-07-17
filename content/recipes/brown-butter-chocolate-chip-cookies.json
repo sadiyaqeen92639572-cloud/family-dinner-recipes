@@ -1,0 +1,90 @@
+{
+  "slug": "brown-butter-chocolate-chip-cookies",
+  "title": "Brown Butter Chocolate Chip Cookies",
+  "hubPath": "cookies",
+  "hubLabel": "Cookies",
+  "metaDescription": "Brown butter chocolate chip cookies with a deep nutty, caramelized flavor — the upgrade that makes classic cookies taste bakery-level.",
+  "targetKeywords": [
+    "cookie recipes",
+    "brown butter chocolate chip cookies"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeYield": "20 cookies",
+  "recipeCategory": "Cookies",
+  "recipeCuisine": "American",
+  "keywords": "brown butter cookies, nutty chocolate chip cookies, bakery style cookies",
+  "nutrition": {
+    "calories": "190",
+    "proteinContent": "2g",
+    "carbohydrateContent": "23g",
+    "fatContent": "10g"
+  },
+  "ingredients": [
+    "1 cup unsalted butter",
+    "2 1/4 cups all-purpose flour",
+    "1 tsp baking soda",
+    "1 tsp salt",
+    "3/4 cup packed brown sugar",
+    "1/2 cup granulated sugar",
+    "1 large egg plus 1 egg yolk",
+    "2 tsp vanilla extract",
+    "2 cups chocolate chips",
+    "Flaky sea salt, for topping (optional)"
+  ],
+  "steps": [
+    {
+      "name": "Brown the butter",
+      "text": "Melt the butter in a light-colored saucepan over medium heat, swirling occasionally, until it foams, then turns golden brown and smells nutty, about 5-7 minutes. Pour into a heatproof bowl to cool for 15-20 minutes."
+    },
+    {
+      "name": "Mix dry ingredients",
+      "text": "Whisk together flour, baking soda and salt in a bowl."
+    },
+    {
+      "name": "Combine wet ingredients",
+      "text": "Whisk the cooled brown butter with both sugars until combined. Whisk in the egg, egg yolk and vanilla until smooth."
+    },
+    {
+      "name": "Combine and chill",
+      "text": "Fold the dry ingredients into the wet mixture until just combined, then fold in chocolate chips. Chill the dough for at least 30 minutes — this helps the flavor develop and prevents excess spreading."
+    },
+    {
+      "name": "Bake",
+      "text": "Preheat oven to 375°F (190°C). Scoop dough onto a lined baking sheet, spaced 2 inches apart, and bake for 9-11 minutes until the edges are set. Sprinkle with flaky salt if using."
+    }
+  ],
+  "tips": [
+    {
+      "question": "How do I know when the butter is browned, not burned?",
+      "answer": "Watch for the color to shift to an amber-gold and the smell to turn nutty rather than sharp — it happens quickly after the foaming stage, so stay at the stove and swirl the pan constantly toward the end."
+    },
+    {
+      "question": "Why chill the dough?",
+      "answer": "The butter is liquid after browning rather than creamed cool and soft, so chilling solidifies it again — skipping this step results in cookies that spread thin and greasy."
+    },
+    {
+      "question": "Can I skip the extra egg yolk?",
+      "answer": "The extra yolk adds richness and chewiness that a single whole egg doesn't fully replicate — it's a small but noticeable difference in texture."
+    }
+  ],
+  "storyIntro": [
+    "Browning the butter is the single change that takes a good chocolate chip cookie to a genuinely great one — the milk solids toast in the pan and add a nutty, caramel-like depth that regular melted or softened butter can't match.",
+    "It adds maybe 10 extra minutes to the process, mostly hands-off, for a cookie that tastes noticeably more complex."
+  ],
+  "storyNote": "Watch the butter closely once it starts foaming — it goes from perfectly browned to burnt in under a minute, and burnt butter tastes bitter, not nutty.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Stack of brown butter chocolate chip cookies with flaky salt on top",
+    "textureAlt": "Close-up of brown butter cookie showing caramelized edges",
+    "pinAlt": "Overhead plate of brown butter chocolate chip cookies"
+  }
+}

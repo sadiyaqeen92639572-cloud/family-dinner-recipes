@@ -1,0 +1,85 @@
+{
+  "slug": "pasta-salad",
+  "title": "Pasta Salad",
+  "hubPath": "salads",
+  "hubLabel": "Salads",
+  "metaDescription": "Classic pasta salad loaded with vegetables and a tangy Italian dressing — the potluck side that always disappears first.",
+  "targetKeywords": [
+    "salad recipes",
+    "pasta salad"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeYield": "8 servings",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "American",
+  "keywords": "pasta salad, potluck side dish, cold pasta salad",
+  "nutrition": {
+    "calories": "260",
+    "proteinContent": "7g",
+    "carbohydrateContent": "32g",
+    "fatContent": "12g"
+  },
+  "ingredients": [
+    "1 lb rotini or bowtie pasta",
+    "1 cup cherry tomatoes, halved",
+    "1 cucumber, diced",
+    "1/2 red onion, thinly sliced",
+    "1 cup black olives, halved",
+    "1 cup mozzarella pearls or diced mozzarella",
+    "2/3 cup Italian dressing",
+    "1/4 cup fresh parsley, chopped",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Cook the pasta",
+      "text": "Cook pasta in salted boiling water according to package directions until al dente. Drain and rinse under cold water to stop the cooking and cool it quickly."
+    },
+    {
+      "name": "Prep the vegetables",
+      "text": "While the pasta cools, dice the tomatoes, cucumber, onion and olives."
+    },
+    {
+      "name": "Combine",
+      "text": "In a large bowl, combine the cooled pasta, tomatoes, cucumber, onion, olives, mozzarella and parsley."
+    },
+    {
+      "name": "Dress and chill",
+      "text": "Pour the Italian dressing over everything and toss to coat. Season with salt and pepper. Chill for at least 30 minutes before serving so the flavors meld."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why rinse the pasta with cold water?",
+      "answer": "Rinsing stops the cooking immediately and cools the pasta fast, which prevents it from continuing to soften and becoming mushy once combined with the dressing."
+    },
+    {
+      "question": "Can I make this a day ahead?",
+      "answer": "Yes — pasta salad actually improves after a few hours or overnight in the fridge as the pasta absorbs the dressing. Give it a fresh toss and taste before serving, adding a splash more dressing if it looks dry."
+    },
+    {
+      "question": "How do I keep it from getting soggy?",
+      "answer": "Slightly undercook the pasta (a minute short of al dente) since it continues to soften as it sits in the dressing, and add delicate ingredients like fresh herbs close to serving time."
+    }
+  ],
+  "storyIntro": [
+    "Pasta salad is the dish that shows up at every summer cookout and potluck for a reason — it holds up in the heat, travels well, and gets better after a few hours in the fridge instead of worse.",
+    "This version keeps it classic: rotini, fresh vegetables, mozzarella and a tangy Italian dressing that coats everything without drowning it."
+  ],
+  "storyNote": "Give the salad time to chill before serving — the flavors need at least 30 minutes to actually meld into the pasta, and it tastes noticeably better than eaten right away.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of pasta salad with tomatoes, mozzarella and olives",
+    "textureAlt": "Close-up of pasta salad showing dressing coating the pasta and vegetables",
+    "pinAlt": "Overhead bowl of colorful pasta salad ready to serve"
+  }
+}

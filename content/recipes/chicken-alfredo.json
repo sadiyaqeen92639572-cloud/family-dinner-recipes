@@ -1,0 +1,86 @@
+{
+  "slug": "chicken-alfredo",
+  "title": "Chicken Alfredo",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Creamy chicken alfredo made from scratch with a rich parmesan sauce — better than a jar, ready in 30 minutes.",
+  "targetKeywords": [
+    "chicken recipes",
+    "chicken breast recipes",
+    "chicken alfredo"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "Italian-American",
+  "keywords": "chicken alfredo, creamy pasta, homemade alfredo sauce",
+  "nutrition": {
+    "calories": "620",
+    "proteinContent": "38g",
+    "carbohydrateContent": "48g",
+    "fatContent": "30g"
+  },
+  "ingredients": [
+    "12 oz fettuccine",
+    "2 boneless chicken breasts, sliced into strips",
+    "3 tbsp butter",
+    "3 cloves garlic, minced",
+    "1 1/2 cups heavy cream",
+    "1 cup grated parmesan, plus more for serving",
+    "1/2 tsp black pepper",
+    "Salt, to taste",
+    "Fresh parsley, chopped, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Cook the pasta",
+      "text": "Cook fettuccine in salted boiling water according to package directions until al dente. Reserve 1/2 cup pasta water, then drain."
+    },
+    {
+      "name": "Cook the chicken",
+      "text": "Season chicken strips with salt and pepper. Heat 1 tbsp butter in a large skillet over medium-high heat and cook chicken for 6-7 minutes until golden and cooked through. Remove and set aside."
+    },
+    {
+      "name": "Make the sauce",
+      "text": "In the same skillet, melt remaining butter and sauté garlic for 30 seconds. Pour in heavy cream and bring to a gentle simmer. Whisk in parmesan a handful at a time until melted and smooth."
+    },
+    {
+      "name": "Combine and serve",
+      "text": "Add the drained pasta and chicken to the sauce, tossing to coat, adding reserved pasta water a splash at a time if the sauce is too thick. Top with parsley and extra parmesan."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why is my sauce grainy instead of smooth?",
+      "answer": "The heat was likely too high when adding the parmesan, which can cause the proteins to seize — keep the cream at a gentle simmer, not a boil, and add cheese gradually off direct high heat."
+    },
+    {
+      "question": "Can I use milk instead of heavy cream?",
+      "answer": "Milk will make a thinner, less rich sauce and is more likely to separate — heavy cream's fat content is what keeps the sauce stable and silky."
+    },
+    {
+      "question": "Why save the pasta water?",
+      "answer": "The starchy water helps loosen and re-emulsify the sauce if it thickens too much once combined with the pasta, without watering down the flavor the way plain water would."
+    }
+  ],
+  "storyIntro": [
+    "Jarred alfredo sauce always tastes like it is missing something, and what it's missing is real cream and real parmesan simmered together instead of stabilizers.",
+    "This version takes the same 30 minutes as boiling pasta and opening a jar, but the sauce actually tastes like something."
+  ],
+  "storyNote": "Keep the cream at a gentle simmer, never a hard boil, once the parmesan goes in — high heat is what causes a grainy, broken sauce.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of creamy chicken alfredo pasta with parsley garnish",
+    "textureAlt": "Close-up of chicken alfredo showing creamy sauce coating the pasta",
+    "pinAlt": "Overhead plate of chicken alfredo with parmesan and parsley"
+  }
+}

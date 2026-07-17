@@ -1,0 +1,88 @@
+{
+  "slug": "chicken-fajitas",
+  "title": "Chicken Fajitas",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Sizzling chicken fajitas with peppers and onions in a smoky spice blend — a 30-minute skillet dinner for taco night.",
+  "targetKeywords": [
+    "chicken recipes",
+    "chicken fajitas",
+    "chicken breast recipes"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "Mexican-American",
+  "keywords": "chicken fajitas, skillet fajitas, taco night dinner",
+  "nutrition": {
+    "calories": "320",
+    "proteinContent": "32g",
+    "carbohydrateContent": "18g",
+    "fatContent": "14g"
+  },
+  "ingredients": [
+    "1.5 lbs boneless chicken breast, sliced into strips",
+    "3 bell peppers, sliced",
+    "1 large onion, sliced",
+    "3 tbsp olive oil",
+    "2 tsp chili powder",
+    "1 tsp cumin",
+    "1 tsp smoked paprika",
+    "1/2 tsp garlic powder",
+    "1 lime, juiced",
+    "8 flour tortillas, warmed",
+    "Salt, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Season the chicken",
+      "text": "Toss the chicken with 1 tbsp olive oil, chili powder, cumin, smoked paprika, garlic powder and salt."
+    },
+    {
+      "name": "Sear the chicken",
+      "text": "Heat a large skillet over medium-high heat. Add the chicken in a single layer and cook for 6-7 minutes, stirring occasionally, until browned and cooked through. Remove and set aside."
+    },
+    {
+      "name": "Cook the peppers and onion",
+      "text": "Add remaining oil to the skillet and cook the peppers and onion over high heat for 6-8 minutes, stirring only occasionally, until softened with charred edges."
+    },
+    {
+      "name": "Combine and serve",
+      "text": "Return the chicken to the skillet, squeeze lime juice over everything, and toss together. Serve immediately with warm tortillas."
+    }
+  ],
+  "tips": [
+    {
+      "question": "How do I get restaurant-style char on the peppers?",
+      "answer": "Use high heat and resist the urge to stir constantly — letting the vegetables sit in contact with the hot pan for a stretch is what creates char, while frequent stirring just steams them."
+    },
+    {
+      "question": "Can I make this ahead for meal prep?",
+      "answer": "Yes — the chicken and vegetables keep well in the fridge for up to 4 days. Reheat in a hot skillet rather than the microwave to bring back some of the char."
+    },
+    {
+      "question": "What toppings work well?",
+      "answer": "Sour cream, shredded cheese, guacamole and fresh cilantro all pair well without overwhelming the smoky-spiced chicken."
+    }
+  ],
+  "storyIntro": [
+    "The sound of fajitas hitting a hot skillet is half the appeal, but the real trick to good fajitas is not overcrowding the pan and not stirring the vegetables too much — both stop the char from forming.",
+    "Give the chicken and vegetables room to actually sear instead of steam, and 20 minutes gets you something better than most restaurant versions."
+  ],
+  "storyNote": "Cook the peppers and onion on high heat without constant stirring — let them sit in contact with the pan to develop char, rather than stirring every few seconds.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Sizzling skillet of chicken fajitas with peppers and onions",
+    "textureAlt": "Close-up of chicken fajitas showing charred pepper edges",
+    "pinAlt": "Overhead skillet of chicken fajitas with lime and tortillas"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "air-fryer-chicken-thighs",
+  "title": "Air Fryer Chicken Thighs",
+  "hubPath": "air-fryer",
+  "hubLabel": "Air Fryer",
+  "metaDescription": "Air fryer chicken thighs with crispy skin and juicy meat in just 22 minutes — no oven required and barely any cleanup.",
+  "targetKeywords": [
+    "air fryer recipes",
+    "air fryer chicken thighs"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT5M",
+  "cookTime": "PT22M",
+  "totalTime": "PT27M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Air Fryer",
+  "recipeCuisine": "American",
+  "keywords": "air fryer chicken thighs, crispy air fryer chicken, easy air fryer dinner",
+  "nutrition": {
+    "calories": "320",
+    "proteinContent": "27g",
+    "carbohydrateContent": "1g",
+    "fatContent": "22g"
+  },
+  "ingredients": [
+    "6 bone-in, skin-on chicken thighs",
+    "1 tbsp olive oil",
+    "1 tsp garlic powder",
+    "1 tsp smoked paprika",
+    "1/2 tsp onion powder",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Season the chicken",
+      "text": "Pat the chicken thighs dry with paper towels. Rub with olive oil, then coat evenly with garlic powder, smoked paprika, onion powder, salt and pepper."
+    },
+    {
+      "name": "Preheat and arrange",
+      "text": "Preheat the air fryer to 380°F (193°C). Arrange the thighs skin-side down in a single layer in the basket, without overlapping."
+    },
+    {
+      "name": "Air fry",
+      "text": "Cook for 12 minutes, then flip skin-side up and cook for another 10-12 minutes, until the skin is crisp and a thermometer reads 175°F (79°C)."
+    },
+    {
+      "name": "Rest and serve",
+      "text": "Let rest for 3-5 minutes before serving."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why start skin-side down?",
+      "answer": "Starting skin-side down lets the fat render directly against the hot basket, which helps crisp it before flipping — starting skin-up first can leave the skin softer."
+    },
+    {
+      "question": "Do I need to preheat the air fryer?",
+      "answer": "Preheating gives a more consistent sear from the start — skipping it usually just adds a couple minutes to the total cook time rather than ruining the result."
+    },
+    {
+      "question": "Can I cook them in a single crowded layer to save time?",
+      "answer": "No — overlapping pieces block air circulation, which is what makes an air fryer crisp food in the first place. Cook in batches if your basket is small."
+    }
+  ],
+  "storyIntro": [
+    "Chicken thighs are close to foolproof in the air fryer — the fat under the skin renders and crisps in the moving hot air without any need to babysit an oven.",
+    "Twenty-two minutes and barely any cleanup gets you crispier skin than most oven methods manage in twice the time."
+  ],
+  "storyNote": "Don't crowd the basket — pieces need space between them for air to circulate, which is the entire mechanism behind an air fryer's crisping power.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Crispy air fryer chicken thighs in the air fryer basket",
+    "textureAlt": "Close-up of air fryer chicken thigh showing crispy skin",
+    "pinAlt": "Overhead plate of air fryer chicken thighs with herbs"
+  }
+}

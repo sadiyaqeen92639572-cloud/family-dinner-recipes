@@ -1,0 +1,88 @@
+{
+  "slug": "crockpot-chili",
+  "title": "Crockpot Chili",
+  "hubPath": "crockpot",
+  "hubLabel": "Crockpot",
+  "metaDescription": "Hearty crockpot chili with ground beef, beans and a rich tomato base — set it in the morning and come home to a ready dinner.",
+  "targetKeywords": [
+    "crockpot recipes",
+    "crockpot chili"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT6H",
+  "totalTime": "PT6H15M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Crockpot",
+  "recipeCuisine": "American",
+  "keywords": "crockpot chili, slow cooker chili, easy chili recipe",
+  "nutrition": {
+    "calories": "360",
+    "proteinContent": "26g",
+    "carbohydrateContent": "30g",
+    "fatContent": "15g"
+  },
+  "ingredients": [
+    "1.5 lbs ground beef",
+    "1 onion, diced",
+    "2 cloves garlic, minced",
+    "2 cans (15 oz each) kidney beans, drained",
+    "1 can (28 oz) crushed tomatoes",
+    "1 can (14.5 oz) diced tomatoes",
+    "2 tbsp chili powder",
+    "1 tbsp cumin",
+    "1 tsp smoked paprika",
+    "1/2 tsp cayenne (optional)",
+    "Salt and pepper, to taste",
+    "Shredded cheese and sour cream, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Brown the beef",
+      "text": "Brown the ground beef with the onion and garlic in a skillet over medium-high heat, about 6-7 minutes, until no pink remains. Drain excess fat."
+    },
+    {
+      "name": "Load the crockpot",
+      "text": "Transfer the beef mixture to the crockpot. Add the kidney beans, crushed tomatoes, diced tomatoes, chili powder, cumin, smoked paprika, cayenne, salt and pepper. Stir to combine."
+    },
+    {
+      "name": "Cook low and slow",
+      "text": "Cover and cook on low for 6-8 hours, or on high for 3-4 hours, stirring occasionally if you're home to do so."
+    },
+    {
+      "name": "Serve",
+      "text": "Ladle into bowls and top with shredded cheese and sour cream."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Do I need to brown the beef first?",
+      "answer": "Yes — browning the beef before it goes into the crockpot renders excess fat and builds flavor through browning that raw beef simmered in liquid can't develop."
+    },
+    {
+      "question": "Can I add the beans raw without draining?",
+      "answer": "Draining and rinsing canned beans removes excess sodium and starchy liquid that can make the chili taste muddy — always drain first for a cleaner flavor."
+    },
+    {
+      "question": "How do I make it spicier?",
+      "answer": "Increase the cayenne or add diced jalapeños when browning the beef — start with a small amount and adjust at the end since spice intensifies over the long cook."
+    }
+  ],
+  "storyIntro": [
+    "Chili is the crockpot recipe that barely needs the crockpot to taste good, but the slow simmer does let the spices bloom into the tomato base in a way a quick stovetop version can't match.",
+    "Browning the beef first instead of dumping it in raw is the one step worth the extra 10 minutes — it's the difference between chili that tastes deep and chili that tastes boiled."
+  ],
+  "storyNote": "Drain and rinse the canned beans before adding them — skipping this leaves the chili tasting starchy and slightly muddy instead of clean.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of crockpot chili topped with cheese and sour cream",
+    "textureAlt": "Close-up of crockpot chili showing beans and ground beef texture",
+    "pinAlt": "Overhead bowl of crockpot chili with toppings"
+  }
+}

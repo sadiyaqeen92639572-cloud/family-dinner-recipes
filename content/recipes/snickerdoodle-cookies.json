@@ -1,0 +1,89 @@
+{
+  "slug": "snickerdoodle-cookies",
+  "title": "Snickerdoodle Cookies",
+  "hubPath": "cookies",
+  "hubLabel": "Cookies",
+  "metaDescription": "Soft snickerdoodle cookies rolled in cinnamon sugar with that classic tangy bite from cream of tartar — a nostalgic classic.",
+  "targetKeywords": [
+    "cookie recipes",
+    "snickerdoodle cookies"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "recipeYield": "24 cookies",
+  "recipeCategory": "Cookies",
+  "recipeCuisine": "American",
+  "keywords": "snickerdoodle cookies, cinnamon sugar cookies, classic cookies",
+  "nutrition": {
+    "calories": "150",
+    "proteinContent": "2g",
+    "carbohydrateContent": "20g",
+    "fatContent": "7g"
+  },
+  "ingredients": [
+    "2 3/4 cups all-purpose flour",
+    "2 tsp cream of tartar",
+    "1 tsp baking soda",
+    "1/4 tsp salt",
+    "1 cup unsalted butter, softened",
+    "1 1/2 cups granulated sugar, divided",
+    "2 large eggs",
+    "1 tsp vanilla extract",
+    "2 tbsp ground cinnamon (for rolling)"
+  ],
+  "steps": [
+    {
+      "name": "Mix dry ingredients",
+      "text": "Whisk together flour, cream of tartar, baking soda and salt in a bowl."
+    },
+    {
+      "name": "Cream butter and sugar",
+      "text": "Beat butter with 1 cup of the sugar until light and fluffy, about 2-3 minutes."
+    },
+    {
+      "name": "Add eggs and vanilla",
+      "text": "Beat in eggs one at a time, then vanilla, until fully combined."
+    },
+    {
+      "name": "Combine and shape",
+      "text": "Gradually mix in the dry ingredients until just combined. In a small bowl, mix the remaining 1/2 cup sugar with the cinnamon. Roll dough into 1-inch balls and coat each in the cinnamon sugar."
+    },
+    {
+      "name": "Bake",
+      "text": "Preheat oven to 375°F (190°C). Place balls on a lined baking sheet, spaced 2 inches apart, and bake for 8-10 minutes until the edges are set but the centers still look soft — they will puff and crackle on top."
+    }
+  ],
+  "tips": [
+    {
+      "question": "What does cream of tartar actually do here?",
+      "answer": "It reacts with the baking soda to give snickerdoodles their signature slight tang and helps create the classic soft, chewy texture with crackled tops — it's not interchangeable with just using more baking powder."
+    },
+    {
+      "question": "Can I make these without cream of tartar?",
+      "answer": "You can substitute 2 tsp baking powder in place of the cream of tartar and baking soda combined, though the classic tangy flavor will be milder."
+    },
+    {
+      "question": "Why do the tops crack?",
+      "answer": "The crackled top is normal for snickerdoodles and comes from the dough spreading and setting around the sugar coating as it bakes — it's a sign the cookie baked correctly, not a mistake."
+    }
+  ],
+  "storyIntro": [
+    "Snickerdoodles get their distinct tangy edge from cream of tartar, an ingredient most other cookies skip entirely — it's the one thing that separates a true snickerdoodle from a plain cinnamon sugar cookie.",
+    "Rolling the dough balls in cinnamon sugar before baking is what gives them that crackled, sparkly top."
+  ],
+  "storyNote": "Don't skip the cream of tartar or swap it out casually — it's responsible for both the tangy flavor and the classic soft-crackled texture that defines a snickerdoodle.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Snickerdoodle cookies with cracked cinnamon sugar tops",
+    "textureAlt": "Close-up of snickerdoodle cookie showing crackled sugary surface",
+    "pinAlt": "Overhead plate of snickerdoodle cookies"
+  }
+}

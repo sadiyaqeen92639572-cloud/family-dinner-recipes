@@ -1,0 +1,81 @@
+{
+  "slug": "chicken-salad",
+  "title": "Chicken Salad",
+  "hubPath": "salads",
+  "hubLabel": "Salads",
+  "metaDescription": "Classic creamy chicken salad with celery, grapes and a hint of crunch — perfect for sandwiches, wraps or served over greens.",
+  "targetKeywords": [
+    "salad recipes",
+    "chicken salad"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "American",
+  "keywords": "chicken salad, classic chicken salad recipe, chicken salad sandwich filling",
+  "nutrition": {
+    "calories": "310",
+    "proteinContent": "26g",
+    "carbohydrateContent": "10g",
+    "fatContent": "19g"
+  },
+  "ingredients": [
+    "3 cups cooked chicken breast, diced or shredded",
+    "1/2 cup mayonnaise",
+    "2 celery stalks, finely diced",
+    "1/2 cup red grapes, halved",
+    "1/4 cup red onion, minced",
+    "1/4 cup toasted pecans or walnuts, chopped",
+    "1 tbsp lemon juice",
+    "1/2 tsp Dijon mustard",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Combine the dressing",
+      "text": "In a large bowl, whisk together mayonnaise, lemon juice and Dijon mustard."
+    },
+    {
+      "name": "Add everything else",
+      "text": "Add the diced chicken, celery, grapes, red onion and nuts to the bowl. Toss to coat everything evenly in the dressing."
+    },
+    {
+      "name": "Season and chill",
+      "text": "Season with salt and pepper to taste. Chill for at least 20 minutes before serving to let the flavors come together."
+    }
+  ],
+  "tips": [
+    {
+      "question": "What's the best way to cook chicken for chicken salad?",
+      "answer": "Poaching or baking whole chicken breasts and letting them cool before dicing keeps them juicier than shredding hot chicken — rotisserie chicken also works well and adds extra flavor."
+    },
+    {
+      "question": "Can I make this lighter?",
+      "answer": "Substituting half the mayonnaise with plain Greek yogurt cuts fat while keeping the salad creamy — start with a 50/50 mix and adjust to taste."
+    },
+    {
+      "question": "How long does chicken salad keep in the fridge?",
+      "answer": "Up to 4 days in an airtight container. Give it a stir before serving since the dressing can separate slightly as it sits."
+    }
+  ],
+  "storyIntro": [
+    "Good chicken salad comes down to using chicken that's actually been cooked and cooled properly rather than rushed while hot, and getting the ratio of creamy dressing to crunchy add-ins right.",
+    "The grapes and toasted nuts here add sweetness and crunch against the celery and creamy dressing — it works equally well piled on bread, wrapped in lettuce, or eaten straight from the bowl."
+  ],
+  "storyNote": "Let the chicken cool fully before mixing it into the dressing — warm chicken can make the mayonnaise-based dressing separate and go slightly oily.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of chicken salad with grapes, celery and pecans",
+    "textureAlt": "Close-up of chicken salad showing creamy texture with visible chicken and grapes",
+    "pinAlt": "Overhead bowl of chicken salad ready for sandwiches"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "stuffed-chicken-breast",
+  "title": "Stuffed Chicken Breast",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Spinach and cream cheese stuffed chicken breast, seared and baked until golden — an easy dinner that looks fancy in 35 minutes.",
+  "targetKeywords": [
+    "chicken breast recipes",
+    "chicken recipes",
+    "stuffed chicken breast"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "American",
+  "keywords": "stuffed chicken breast, spinach cream cheese chicken, easy chicken dinner",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "38g",
+    "carbohydrateContent": "4g",
+    "fatContent": "23g"
+  },
+  "ingredients": [
+    "4 boneless, skinless chicken breasts",
+    "4 oz cream cheese, softened",
+    "1 cup fresh spinach, chopped",
+    "1/2 cup shredded mozzarella",
+    "2 cloves garlic, minced",
+    "1 tbsp olive oil",
+    "1 tsp Italian seasoning",
+    "Salt and pepper, to taste",
+    "Toothpicks, for securing"
+  ],
+  "steps": [
+    {
+      "name": "Make the filling",
+      "text": "Preheat oven to 375°F (190°C). Mix cream cheese, chopped spinach, mozzarella, garlic and Italian seasoning in a bowl until combined."
+    },
+    {
+      "name": "Cut and stuff the chicken",
+      "text": "Slice a deep pocket into the side of each chicken breast, being careful not to cut all the way through. Season the outside with salt and pepper, then spoon the filling into each pocket and secure with toothpicks."
+    },
+    {
+      "name": "Sear",
+      "text": "Heat olive oil in an oven-safe skillet over medium-high heat. Sear the stuffed chicken for 3 minutes per side until golden."
+    },
+    {
+      "name": "Bake",
+      "text": "Transfer the skillet to the oven and bake for 15-18 minutes until the chicken reaches 165°F (74°C). Remove toothpicks before serving."
+    }
+  ],
+  "tips": [
+    {
+      "question": "How do I cut a pocket without cutting all the way through?",
+      "answer": "Lay the breast flat and slice into the thickest side horizontally, stopping about 1/2 inch before the opposite edge — go slowly and use the tip of the knife to feel how deep you are."
+    },
+    {
+      "question": "Can I make the filling ahead?",
+      "answer": "Yes — the cream cheese and spinach filling can be mixed up to 2 days ahead and refrigerated, which also makes it firmer and easier to stuff."
+    },
+    {
+      "question": "No oven-safe skillet — what do I do?",
+      "answer": "Sear in a regular skillet, then transfer the chicken to a baking dish to finish in the oven."
+    }
+  ],
+  "storyIntro": [
+    "Stuffed chicken breast looks like more effort than it is — the whole trick is cutting a clean pocket and not overfilling it so the filling doesn't spill out during searing.",
+    "Searing first for color, then finishing in the oven, keeps the outside from overcooking while the filling heats through and the cheese inside goes melty."
+  ],
+  "storyNote": "Don't overstuff the pocket — a slightly-too-full breast splits open while searing and the filling ends up in the pan instead of inside the chicken.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Sliced stuffed chicken breast showing spinach and cream cheese filling",
+    "textureAlt": "Close-up of stuffed chicken breast cross-section with melted filling",
+    "pinAlt": "Overhead plate of stuffed chicken breast sliced open"
+  }
+}

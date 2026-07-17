@@ -1,0 +1,86 @@
+{
+  "slug": "honey-garlic-chicken",
+  "title": "Honey Garlic Chicken",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Honey garlic chicken with a sticky, savory-sweet glaze — a 25-minute skillet dinner the whole family will ask for again.",
+  "targetKeywords": [
+    "chicken recipes",
+    "honey garlic chicken",
+    "easy chicken dinner"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "Asian-inspired",
+  "keywords": "honey garlic chicken, sticky chicken glaze, easy skillet chicken",
+  "nutrition": {
+    "calories": "340",
+    "proteinContent": "34g",
+    "carbohydrateContent": "22g",
+    "fatContent": "12g"
+  },
+  "ingredients": [
+    "1.5 lbs boneless, skinless chicken thighs, cut into pieces",
+    "2 tbsp cornstarch",
+    "2 tbsp olive oil",
+    "4 cloves garlic, minced",
+    "1/3 cup honey",
+    "1/4 cup soy sauce",
+    "2 tbsp rice vinegar",
+    "1 tbsp water",
+    "Sesame seeds and sliced green onion, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Coat the chicken",
+      "text": "Toss the chicken pieces with cornstarch until lightly coated — this helps the sauce cling and gives a light crispness when seared."
+    },
+    {
+      "name": "Sear the chicken",
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add chicken in a single layer and sear for 5-6 minutes per side until golden and cooked through. Remove and set aside."
+    },
+    {
+      "name": "Make the glaze",
+      "text": "Lower heat to medium, add garlic to the same skillet and cook 30 seconds until fragrant. Whisk in honey, soy sauce, rice vinegar and water, and simmer for 2-3 minutes until slightly thickened."
+    },
+    {
+      "name": "Glaze and serve",
+      "text": "Return the chicken to the skillet and toss to coat evenly in the glaze for 1-2 minutes. Top with sesame seeds and green onion."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why coat the chicken in cornstarch?",
+      "answer": "The cornstarch creates a light crust that helps the glaze cling to the chicken instead of just pooling in the pan — skip it and the sauce will slide right off."
+    },
+    {
+      "question": "Can I use chicken breast instead of thighs?",
+      "answer": "Yes, though thighs stay juicier through the sear — if using breast, watch the cook time closely since it dries out faster."
+    },
+    {
+      "question": "How do I keep the glaze from burning?",
+      "answer": "Keep the heat at medium once the honey goes in — honey scorches quickly on high heat, turning bitter instead of caramelized."
+    }
+  ],
+  "storyIntro": [
+    "Honey garlic chicken is proof that a great sauce doesn't need a long ingredient list — honey, soy sauce, garlic and vinegar reduce into a glossy glaze in a few minutes.",
+    "It comes together faster than takeout and the sauce sticks to every piece instead of pooling at the bottom of the bowl."
+  ],
+  "storyNote": "Keep the glaze at a gentle simmer once the honey is in — high heat scorches honey fast and turns the sauce bitter instead of sticky-sweet.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Skillet of honey garlic chicken glazed and topped with sesame seeds",
+    "textureAlt": "Close-up of honey garlic chicken showing sticky glaze coating",
+    "pinAlt": "Overhead honey garlic chicken with green onion and sesame garnish"
+  }
+}

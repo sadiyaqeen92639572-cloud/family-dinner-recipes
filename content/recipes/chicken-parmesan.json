@@ -1,0 +1,87 @@
+{
+  "slug": "chicken-parmesan",
+  "title": "Chicken Parmesan",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Classic chicken parmesan with a crispy breaded cutlet, marinara and melted mozzarella — restaurant-quality at home in 40 minutes.",
+  "targetKeywords": [
+    "chicken recipes",
+    "chicken parmesan",
+    "chicken breast recipes"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "Italian-American",
+  "keywords": "chicken parmesan, breaded chicken cutlet, chicken parm",
+  "nutrition": {
+    "calories": "520",
+    "proteinContent": "42g",
+    "carbohydrateContent": "28g",
+    "fatContent": "26g"
+  },
+  "ingredients": [
+    "4 boneless, skinless chicken breasts, pounded thin",
+    "1 cup breadcrumbs",
+    "1/2 cup grated parmesan",
+    "2 eggs, beaten",
+    "1/2 cup flour",
+    "2 cups marinara sauce",
+    "1 1/2 cups shredded mozzarella",
+    "3 tbsp olive oil",
+    "Fresh basil, for serving",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    {
+      "name": "Set up the breading station",
+      "text": "Preheat oven to 425°F (220°C). Set up three shallow bowls: flour seasoned with salt and pepper, beaten eggs, and breadcrumbs mixed with parmesan."
+    },
+    {
+      "name": "Bread the chicken",
+      "text": "Dredge each chicken breast in flour, then egg, then the breadcrumb mixture, pressing gently to coat evenly."
+    },
+    {
+      "name": "Pan-fry until golden",
+      "text": "Heat olive oil in a large oven-safe skillet over medium-high heat. Fry the chicken for 3-4 minutes per side until golden brown (it doesn't need to be fully cooked through yet)."
+    },
+    {
+      "name": "Top and bake",
+      "text": "Spoon marinara over each cutlet and top with mozzarella. Transfer the skillet to the oven and bake for 12-15 minutes until the chicken reaches 165°F (74°C) and the cheese is bubbly. Garnish with basil."
+    }
+  ],
+  "tips": [
+    {
+      "question": "Why pound the chicken thin?",
+      "answer": "Even thickness means the breading fries evenly and the chicken finishes cooking through in the oven at the same rate the cheese melts — a thick, uneven breast risks burnt breading before the inside is done."
+    },
+    {
+      "question": "Can I bake instead of pan-frying first?",
+      "answer": "You can, but pan-frying first gives a genuinely crispy crust that plain baking can't replicate — the direct contact with hot oil is what browns the breadcrumbs properly."
+    },
+    {
+      "question": "No oven-safe skillet — what do I do?",
+      "answer": "Transfer the fried cutlets to a baking sheet before adding sauce and cheese, then finish in the oven the same way."
+    }
+  ],
+  "storyIntro": [
+    "Chicken parmesan at a restaurant usually means a thick, dry cutlet buried under too much cheese. The version that actually works starts with pounding the chicken thin so it cooks evenly and stays juicy.",
+    "Frying first for a real crust, then finishing in the oven with sauce and cheese, keeps that crust from turning soggy the way a fully-baked version does."
+  ],
+  "storyNote": "Fry just until golden, not fully cooked — the oven finishes the chicken while melting the cheese, so overcooking at the stovetop stage dries it out by the time it comes out of the oven.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Chicken parmesan cutlet topped with marinara and melted mozzarella",
+    "textureAlt": "Close-up of chicken parmesan showing crispy breaded crust and melted cheese",
+    "pinAlt": "Overhead plate of chicken parmesan with basil garnish"
+  }
+}
