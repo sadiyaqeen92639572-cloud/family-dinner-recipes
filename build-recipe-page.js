@@ -37,7 +37,13 @@ function buildJsonLd(r) {
       recipeCuisine: r.recipeCuisine,
       keywords: r.keywords,
       recipeIngredient: r.ingredients,
-      recipeInstructions: r.steps.map(s => ({ '@type': 'HowToStep', name: s.name, text: s.text })),
+      recipeInstructions: r.steps.map((s, i) => ({
+        '@type': 'HowToStep',
+        name: s.name,
+        text: s.text,
+        url: `${SITE_URL}/${r.hubPath}/${r.slug}/#step-${i + 1}`,
+        image: `${SITE_URL}/images/${r.slug}/hero.jpg`
+      })),
       nutrition: {
         '@type': 'NutritionInformation',
         calories: `${r.nutrition.calories} calories`,
@@ -90,7 +96,7 @@ function buildJsonLd(r) {
 
 function buildStepsHtml(r) {
   return r.steps.map((s, i) => `
-        <li class="recipe-step">
+        <li class="recipe-step" id="step-${i + 1}">
           <strong>${i + 1}. ${s.name}</strong>
           <p>${s.text}</p>
           ${i === 1 ? `<img src="/images/${r.slug}/texture.jpg" alt="${r.images.textureAlt}" loading="lazy" class="step-photo">` : ''}
